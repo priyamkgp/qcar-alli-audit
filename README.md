@@ -3,6 +3,7 @@
 Code and data for the article
 
 > S. Sarkar and P. Chakraborty, *Audit of Quantitative Composition Activity in Aluminium-Lithium (Al-Li) Alloy Property Data using Machine Learning*, submitted to *Computational Materials Science* (2026).
+> [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23496904.svg)](https://doi.org/10.5281/zenodo.23496904)
 
 The repository reproduces every number, table and figure of the article from the
 extracted data in `data/`. All intermediate results are also included, so each
