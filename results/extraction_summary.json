@@ -1,0 +1,12 @@
+{
+  "qcar_rows": 667,
+  "supplied_training_rows": 499,
+  "supplied_testing_rows": 168,
+  "source_compilation_records": 94,
+  "four_property_records": 27,
+  "xlsx_generic_rows": 11,
+  "xlsx_qcar_rows": 52,
+  "handbook_temper_entries": 52,
+  "prediction_table_records": 26,
+  "preliminary_network_rows": 63
+}

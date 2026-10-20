@@ -1,0 +1,329 @@
+control,replicate,model,target,r2,mae
+Master table,0,Ridge,Tensile Strength,0.9953288435075807,2.2832999168641086
+Master table,0,Extra Trees,Tensile Strength,0.9999658235657823,0.16351912568318427
+Response randomization,0,Ridge,Tensile Strength,-0.006045874446849675,36.46157565817913
+Response randomization,0,Extra Trees,Tensile Strength,-0.307013223936478,40.949301588100525
+Response randomization,1,Ridge,Tensile Strength,-0.009266807247449327,36.83628669656399
+Response randomization,1,Extra Trees,Tensile Strength,-0.34976476725603667,41.28664950359713
+Response randomization,2,Ridge,Tensile Strength,-0.016548452902177546,36.73878949110007
+Response randomization,2,Extra Trees,Tensile Strength,-0.4153701993524366,42.298338373840004
+Response randomization,3,Ridge,Tensile Strength,-0.016448156103280764,36.70410020856691
+Response randomization,3,Extra Trees,Tensile Strength,-0.3513368682232061,41.58428101195136
+Response randomization,4,Ridge,Tensile Strength,-0.020274977669640704,36.832570235135535
+Response randomization,4,Extra Trees,Tensile Strength,-0.2757420497529772,40.34526992116217
+Response randomization,5,Ridge,Tensile Strength,-0.01241722077106977,36.63285097078483
+Response randomization,5,Extra Trees,Tensile Strength,-0.3379457674045223,41.445719572349496
+Response randomization,6,Ridge,Tensile Strength,-0.029450746920138826,37.04249321796769
+Response randomization,6,Extra Trees,Tensile Strength,-0.29253716928168805,40.22893422043441
+Response randomization,7,Ridge,Tensile Strength,-0.0032511832796717766,36.36429066834675
+Response randomization,7,Extra Trees,Tensile Strength,-0.24546500597013,40.21898411825702
+Response randomization,8,Ridge,Tensile Strength,-0.016124785615291515,36.78274521885281
+Response randomization,8,Extra Trees,Tensile Strength,-0.3305042079726832,41.28260963352551
+Response randomization,9,Ridge,Tensile Strength,-0.02573648673501472,37.01434391639183
+Response randomization,9,Extra Trees,Tensile Strength,-0.36730481713695995,41.81172966363756
+Response randomization,10,Ridge,Tensile Strength,-0.010180888414605516,36.633975679240145
+Response randomization,10,Extra Trees,Tensile Strength,-0.29569980600637313,40.46581649081109
+Response randomization,11,Ridge,Tensile Strength,-0.01923547790465463,36.93190181106288
+Response randomization,11,Extra Trees,Tensile Strength,-0.4228323484589187,42.73649705983314
+Response randomization,12,Ridge,Tensile Strength,-0.016374860468316932,36.785113642644575
+Response randomization,12,Extra Trees,Tensile Strength,-0.2750364820886275,40.227870242435834
+Response randomization,13,Ridge,Tensile Strength,-0.006624192254091499,36.54126858253351
+Response randomization,13,Extra Trees,Tensile Strength,-0.35567619674585726,41.840524595464835
+Response randomization,14,Ridge,Tensile Strength,-0.006703883429935109,36.767291082592926
+Response randomization,14,Extra Trees,Tensile Strength,-0.283781446516276,40.308898974730496
+Response randomization,15,Ridge,Tensile Strength,-0.01228452598037344,36.80746357335371
+Response randomization,15,Extra Trees,Tensile Strength,-0.34878627842018695,41.57837484491548
+Response randomization,16,Ridge,Tensile Strength,-0.03324528533948379,36.886939501915606
+Response randomization,16,Extra Trees,Tensile Strength,-0.4130755877622161,42.116853843225634
+Response randomization,17,Ridge,Tensile Strength,-0.019537386020524128,36.71632606273909
+Response randomization,17,Extra Trees,Tensile Strength,-0.3529178897878922,40.78638320370192
+Response randomization,18,Ridge,Tensile Strength,-0.022094557709542828,36.77671689599733
+Response randomization,18,Extra Trees,Tensile Strength,-0.37274358257894136,41.8537650627724
+Response randomization,19,Ridge,Tensile Strength,-0.01712356374037216,36.71515088495539
+Response randomization,19,Extra Trees,Tensile Strength,-0.33310597285545085,41.15501640075934
+Master table,0,Ridge,Proof Stress (mpa),0.9919360509331802,3.433226098002418
+Master table,0,Extra Trees,Proof Stress (mpa),0.9998864856998179,0.24346104342017147
+Response randomization,0,Ridge,Proof Stress (mpa),-0.03317869671773632,49.252042312204836
+Response randomization,0,Extra Trees,Proof Stress (mpa),-0.42959080460567467,56.04239638090511
+Response randomization,1,Ridge,Proof Stress (mpa),-0.012625223337400682,48.78719437313165
+Response randomization,1,Extra Trees,Proof Stress (mpa),-0.33380601038225577,54.60493749349463
+Response randomization,2,Ridge,Proof Stress (mpa),-0.019698342810488212,48.94986194058669
+Response randomization,2,Extra Trees,Proof Stress (mpa),-0.35876160041423555,54.97856556875272
+Response randomization,3,Ridge,Proof Stress (mpa),-0.023932621906693763,48.87849364146523
+Response randomization,3,Extra Trees,Proof Stress (mpa),-0.33629373015435315,55.21234129983013
+Response randomization,4,Ridge,Proof Stress (mpa),-0.020087671143661723,48.87647898489054
+Response randomization,4,Extra Trees,Proof Stress (mpa),-0.268924238578776,52.866113662270735
+Response randomization,5,Ridge,Proof Stress (mpa),-0.011008076008356404,48.59338773535425
+Response randomization,5,Extra Trees,Proof Stress (mpa),-0.3258881730047931,54.539009756628566
+Response randomization,6,Ridge,Proof Stress (mpa),-0.01784843214970455,48.75880532310523
+Response randomization,6,Extra Trees,Proof Stress (mpa),-0.31833314547649816,54.00295637955393
+Response randomization,7,Ridge,Proof Stress (mpa),-0.026479348748228215,48.98425844651483
+Response randomization,7,Extra Trees,Proof Stress (mpa),-0.3995942897548832,55.844489505413705
+Response randomization,8,Ridge,Proof Stress (mpa),-0.00813320961144015,48.3762136085021
+Response randomization,8,Extra Trees,Proof Stress (mpa),-0.32241026177522225,54.569897004067606
+Response randomization,9,Ridge,Proof Stress (mpa),-0.015554595331620957,48.91000698201404
+Response randomization,9,Extra Trees,Proof Stress (mpa),-0.3780310721164337,55.071667998160734
+Response randomization,10,Ridge,Proof Stress (mpa),-0.017966738868952836,48.932099159847255
+Response randomization,10,Extra Trees,Proof Stress (mpa),-0.4856018750316602,57.6711647444086
+Response randomization,11,Ridge,Proof Stress (mpa),-0.011064847120066501,48.63787047210511
+Response randomization,11,Extra Trees,Proof Stress (mpa),-0.35426970911719446,54.839507190299
+Response randomization,12,Ridge,Proof Stress (mpa),-0.01599409172573596,48.743272620251766
+Response randomization,12,Extra Trees,Proof Stress (mpa),-0.42335458623040334,56.47166768610476
+Response randomization,13,Ridge,Proof Stress (mpa),-0.028011710795881495,49.15541904591867
+Response randomization,13,Extra Trees,Proof Stress (mpa),-0.48166715580248654,57.490252470443544
+Response randomization,14,Ridge,Proof Stress (mpa),-0.017704346417197758,49.02645565305301
+Response randomization,14,Extra Trees,Proof Stress (mpa),-0.3993491128227906,55.978812519226516
+Response randomization,15,Ridge,Proof Stress (mpa),-0.01909290958227494,48.929397176202436
+Response randomization,15,Extra Trees,Proof Stress (mpa),-0.3792997987403961,55.435824755862114
+Response randomization,16,Ridge,Proof Stress (mpa),-0.020609672009455293,48.980435974168614
+Response randomization,16,Extra Trees,Proof Stress (mpa),-0.453684326691123,57.04098386216747
+Response randomization,17,Ridge,Proof Stress (mpa),-0.030000712354093073,49.20102411594229
+Response randomization,17,Extra Trees,Proof Stress (mpa),-0.33183883330060326,54.002983323764994
+Response randomization,18,Ridge,Proof Stress (mpa),-0.01789471161651157,48.94010599483674
+Response randomization,18,Extra Trees,Proof Stress (mpa),-0.2786721577508451,53.839876132926406
+Response randomization,19,Ridge,Proof Stress (mpa),-0.017060122516693088,48.69840199601224
+Response randomization,19,Extra Trees,Proof Stress (mpa),-0.24143488473600838,51.691318987375105
+Master table,0,Ridge,Shear Strength (mpa),0.9914381103807536,2.869153011962597
+Master table,0,Extra Trees,Shear Strength (mpa),0.9998830359678365,0.17867284118655108
+Response randomization,0,Ridge,Shear Strength (mpa),-0.019815063765182828,36.87616806024585
+Response randomization,0,Extra Trees,Shear Strength (mpa),-0.31404078467840724,40.84519244609876
+Response randomization,1,Ridge,Shear Strength (mpa),0.0006024077228454772,36.54255812061114
+Response randomization,1,Extra Trees,Shear Strength (mpa),-0.3681585518082138,41.89079848583099
+Response randomization,2,Ridge,Shear Strength (mpa),-0.004462101710176469,36.546305143571566
+Response randomization,2,Extra Trees,Shear Strength (mpa),-0.2638110518167365,40.27790589152682
+Response randomization,3,Ridge,Shear Strength (mpa),-0.0025754354663449774,36.48110540956631
+Response randomization,3,Extra Trees,Shear Strength (mpa),-0.4212477331587574,42.26035806889827
+Response randomization,4,Ridge,Shear Strength (mpa),-0.02065319384816333,36.92221709856966
+Response randomization,4,Extra Trees,Shear Strength (mpa),-0.3942382720962392,41.400949545290345
+Response randomization,5,Ridge,Shear Strength (mpa),-0.007462119832072123,36.79215939729664
+Response randomization,5,Extra Trees,Shear Strength (mpa),-0.20777178942833374,38.95077752886571
+Response randomization,6,Ridge,Shear Strength (mpa),-0.011930186430656908,36.78334621553305
+Response randomization,6,Extra Trees,Shear Strength (mpa),-0.29393951970957843,40.36602327974169
+Response randomization,7,Ridge,Shear Strength (mpa),-0.026152619697659363,36.85282673182344
+Response randomization,7,Extra Trees,Shear Strength (mpa),-0.31106054742859235,41.03135262261308
+Response randomization,8,Ridge,Shear Strength (mpa),-0.013328427919004682,36.714378430127084
+Response randomization,8,Extra Trees,Shear Strength (mpa),-0.4225596630332793,42.89552405703713
+Response randomization,9,Ridge,Shear Strength (mpa),-0.022671714605434712,36.81965755532227
+Response randomization,9,Extra Trees,Shear Strength (mpa),-0.3308826736339041,41.09133448187188
+Response randomization,10,Ridge,Shear Strength (mpa),-0.020621432950858276,36.809474487015855
+Response randomization,10,Extra Trees,Shear Strength (mpa),-0.3383454382173192,41.1169389254372
+Response randomization,11,Ridge,Shear Strength (mpa),-0.0041831647400487615,36.49635711046047
+Response randomization,11,Extra Trees,Shear Strength (mpa),-0.30013203711646574,41.08481109431233
+Response randomization,12,Ridge,Shear Strength (mpa),-0.024132884027773915,36.99391888082898
+Response randomization,12,Extra Trees,Shear Strength (mpa),-0.26025732571166804,39.68980030042515
+Response randomization,13,Ridge,Shear Strength (mpa),-0.01930777118163496,36.80654281606787
+Response randomization,13,Extra Trees,Shear Strength (mpa),-0.2697072125069704,39.76271005440126
+Response randomization,14,Ridge,Shear Strength (mpa),-0.014323484922503349,36.73436418633363
+Response randomization,14,Extra Trees,Shear Strength (mpa),-0.26181301475820806,39.26215072410231
+Response randomization,15,Ridge,Shear Strength (mpa),-0.024414769736457398,36.98215188880405
+Response randomization,15,Extra Trees,Shear Strength (mpa),-0.3090683627753392,40.47355877535646
+Response randomization,16,Ridge,Shear Strength (mpa),-0.0261511784365851,36.909917924743326
+Response randomization,16,Extra Trees,Shear Strength (mpa),-0.2755685136856172,39.92729993686996
+Response randomization,17,Ridge,Shear Strength (mpa),-0.004061858700966425,36.51121563196542
+Response randomization,17,Extra Trees,Shear Strength (mpa),-0.3573156604303447,41.08648701903768
+Response randomization,18,Ridge,Shear Strength (mpa),-0.018504367786810416,36.90161090527465
+Response randomization,18,Extra Trees,Shear Strength (mpa),-0.28728149601169584,40.188086633592775
+Response randomization,19,Ridge,Shear Strength (mpa),-0.019995149254384392,36.89423672398999
+Response randomization,19,Extra Trees,Shear Strength (mpa),-0.32938854029302056,41.02639208061327
+Master table,0,Ridge,Hardness Vickers,0.9916368181016181,1.322078173440596
+Master table,0,Extra Trees,Hardness Vickers,0.9999273757158882,0.08330807219128333
+Response randomization,0,Ridge,Hardness Vickers,-0.013388752510415491,16.78183952216486
+Response randomization,0,Extra Trees,Hardness Vickers,-0.35200305459954406,19.030532471088883
+Response randomization,1,Ridge,Hardness Vickers,-0.012054505640401114,16.91147473671815
+Response randomization,1,Extra Trees,Hardness Vickers,-0.3145174867508058,18.990233628768934
+Response randomization,2,Ridge,Hardness Vickers,-0.012832991656301918,16.917155761255174
+Response randomization,2,Extra Trees,Hardness Vickers,-0.39732361667027516,19.555362417349293
+Response randomization,3,Ridge,Hardness Vickers,-0.01415382084413741,16.812247051645947
+Response randomization,3,Extra Trees,Hardness Vickers,-0.37382474120540965,19.180101422216026
+Response randomization,4,Ridge,Hardness Vickers,-0.0160902234994591,16.8675787183561
+Response randomization,4,Extra Trees,Hardness Vickers,-0.3039233646481927,18.983355626379073
+Response randomization,5,Ridge,Hardness Vickers,-0.018715131612228486,16.952945152957046
+Response randomization,5,Extra Trees,Hardness Vickers,-0.32972658314168446,18.950463252171417
+Response randomization,6,Ridge,Hardness Vickers,-0.012362010622483988,16.863729177739206
+Response randomization,6,Extra Trees,Hardness Vickers,-0.42321891287067603,19.838668055563744
+Response randomization,7,Ridge,Hardness Vickers,-0.015278336580258456,16.910834239455596
+Response randomization,7,Extra Trees,Hardness Vickers,-0.3462815447743339,19.028173743721116
+Response randomization,8,Ridge,Hardness Vickers,-0.022633238163220826,16.970193633745655
+Response randomization,8,Extra Trees,Hardness Vickers,-0.3154983031090086,19.019807674289517
+Response randomization,9,Ridge,Hardness Vickers,-0.0052366557163388006,16.82661487549307
+Response randomization,9,Extra Trees,Hardness Vickers,-0.28074670582740113,18.49228018640432
+Response randomization,10,Ridge,Hardness Vickers,-0.009913270160837317,16.851759708046675
+Response randomization,10,Extra Trees,Hardness Vickers,-0.5208171520528104,20.32044770086722
+Response randomization,11,Ridge,Hardness Vickers,-0.0011366255311655582,16.685903821474334
+Response randomization,11,Extra Trees,Hardness Vickers,-0.3487363071881131,18.81760597101783
+Response randomization,12,Ridge,Hardness Vickers,-0.029588369216525967,17.01933280974247
+Response randomization,12,Extra Trees,Hardness Vickers,-0.4260222555024875,19.807379792398244
+Response randomization,13,Ridge,Hardness Vickers,-0.02119198767177255,16.971970439224364
+Response randomization,13,Extra Trees,Hardness Vickers,-0.3755538377302623,19.358853978479466
+Response randomization,14,Ridge,Hardness Vickers,-0.01519031773613988,16.899892213305776
+Response randomization,14,Extra Trees,Hardness Vickers,-0.3976149363290362,19.305537868147432
+Response randomization,15,Ridge,Hardness Vickers,-0.014217489452983623,16.936163936915833
+Response randomization,15,Extra Trees,Hardness Vickers,-0.3532804356248269,19.02234344485817
+Response randomization,16,Ridge,Hardness Vickers,-0.024096442453639844,17.000605812342712
+Response randomization,16,Extra Trees,Hardness Vickers,-0.515001060328651,20.284266786587587
+Response randomization,17,Ridge,Hardness Vickers,-0.038605510247238684,17.06571319219792
+Response randomization,17,Extra Trees,Hardness Vickers,-0.4715319947419583,20.164727054473914
+Response randomization,18,Ridge,Hardness Vickers,-0.0008817055281427066,16.85752147121493
+Response randomization,18,Extra Trees,Hardness Vickers,-0.40549398889465427,19.44979413077953
+Response randomization,19,Ridge,Hardness Vickers,-0.02642573622793476,17.04346519392962
+Response randomization,19,Extra Trees,Hardness Vickers,-0.42724983886357815,19.732111871968904
+Comonotone surrogate,0,Ridge,Tensile Strength,0.9957386282337871,2.3627278934468543
+Comonotone surrogate,0,Extra Trees,Tensile Strength,0.9999429947807691,0.21001359877839307
+Comonotone surrogate,0,Ridge,Proof Stress (mpa),0.9906063896358867,4.5250821150637845
+Comonotone surrogate,0,Extra Trees,Proof Stress (mpa),0.9998625766043452,0.32954334927458423
+Comonotone surrogate,0,Ridge,Shear Strength (mpa),0.9872413088353726,3.756463520282845
+Comonotone surrogate,0,Extra Trees,Shear Strength (mpa),0.9998220056105636,0.25862678541204726
+Comonotone surrogate,0,Ridge,Hardness Vickers,0.9925530536886273,1.2341741664163548
+Comonotone surrogate,0,Extra Trees,Hardness Vickers,0.9998500783479022,0.11862496538397624
+Comonotone surrogate,1,Ridge,Tensile Strength,0.9987888964639434,1.1741666688427626
+Comonotone surrogate,1,Extra Trees,Tensile Strength,0.9999388960122506,0.21832837614763528
+Comonotone surrogate,1,Ridge,Proof Stress (mpa),0.9955634183018797,3.0929474464948483
+Comonotone surrogate,1,Extra Trees,Proof Stress (mpa),0.999886427064929,0.32979483880044747
+Comonotone surrogate,1,Ridge,Shear Strength (mpa),0.9951437395204236,2.2334156594020036
+Comonotone surrogate,1,Extra Trees,Shear Strength (mpa),0.999879695507721,0.23370424260092226
+Comonotone surrogate,1,Ridge,Hardness Vickers,0.994259997866025,1.2036610745176526
+Comonotone surrogate,1,Extra Trees,Hardness Vickers,0.9998903838464107,0.10940081104685576
+Comonotone surrogate,2,Ridge,Tensile Strength,0.9962519403768447,2.0925523615005095
+Comonotone surrogate,2,Extra Trees,Tensile Strength,0.9999383524297373,0.22637532784480224
+Comonotone surrogate,2,Ridge,Proof Stress (mpa),0.9940827013164593,3.165034745360783
+Comonotone surrogate,2,Extra Trees,Proof Stress (mpa),0.9998464081766107,0.30565072253396364
+Comonotone surrogate,2,Ridge,Shear Strength (mpa),0.9937849435170352,2.4824865553819433
+Comonotone surrogate,2,Extra Trees,Shear Strength (mpa),0.9999135753806782,0.243675474093912
+Comonotone surrogate,2,Ridge,Hardness Vickers,0.9948997178790103,1.096909344859479
+Comonotone surrogate,2,Extra Trees,Hardness Vickers,0.9998802841985739,0.12330867679175662
+Comonotone surrogate,3,Ridge,Tensile Strength,0.9979510798927879,1.5172617333596647
+Comonotone surrogate,3,Extra Trees,Tensile Strength,0.9999286700267134,0.2298407494014976
+Comonotone surrogate,3,Ridge,Proof Stress (mpa),0.9969040424120725,2.4906513779255497
+Comonotone surrogate,3,Extra Trees,Proof Stress (mpa),0.9999353427950757,0.29247725110540895
+Comonotone surrogate,3,Ridge,Shear Strength (mpa),0.9940883446838724,2.252483785876466
+Comonotone surrogate,3,Extra Trees,Shear Strength (mpa),0.9998117726878067,0.2551285550867336
+Comonotone surrogate,3,Ridge,Hardness Vickers,0.9952721685381251,1.0637083072665008
+Comonotone surrogate,3,Extra Trees,Hardness Vickers,0.9999246871065604,0.10392981938554596
+Comonotone surrogate,4,Ridge,Tensile Strength,0.9973363843809816,1.8377407380737796
+Comonotone surrogate,4,Extra Trees,Tensile Strength,0.9999348101011136,0.22910736377286364
+Comonotone surrogate,4,Ridge,Proof Stress (mpa),0.9935220731972236,2.926175396868488
+Comonotone surrogate,4,Extra Trees,Proof Stress (mpa),0.99987030075912,0.3176572846874144
+Comonotone surrogate,4,Ridge,Shear Strength (mpa),0.994343452352503,2.718620771615075
+Comonotone surrogate,4,Extra Trees,Shear Strength (mpa),0.9997663052249333,0.25710133837724514
+Comonotone surrogate,4,Ridge,Hardness Vickers,0.9955161474779707,1.0024356801902223
+Comonotone surrogate,4,Extra Trees,Hardness Vickers,0.999902703862702,0.10368965247773441
+Comonotone surrogate,5,Ridge,Tensile Strength,0.9974262407218814,1.8830718944260592
+Comonotone surrogate,5,Extra Trees,Tensile Strength,0.9999392214451351,0.2226117970681376
+Comonotone surrogate,5,Ridge,Proof Stress (mpa),0.9944112914981726,3.459604675274502
+Comonotone surrogate,5,Extra Trees,Proof Stress (mpa),0.9999014715254844,0.29943033537279057
+Comonotone surrogate,5,Ridge,Shear Strength (mpa),0.9955844446090463,2.3779007591156622
+Comonotone surrogate,5,Extra Trees,Shear Strength (mpa),0.9998822089688433,0.25673373331667326
+Comonotone surrogate,5,Ridge,Hardness Vickers,0.9963556583305797,1.0137489339980303
+Comonotone surrogate,5,Extra Trees,Hardness Vickers,0.999924729580756,0.10587093030865302
+Comonotone surrogate,6,Ridge,Tensile Strength,0.9970884727090195,1.9663258486370883
+Comonotone surrogate,6,Extra Trees,Tensile Strength,0.9999526485026399,0.2091956133338236
+Comonotone surrogate,6,Ridge,Proof Stress (mpa),0.9908779141850661,4.242279978057812
+Comonotone surrogate,6,Extra Trees,Proof Stress (mpa),0.9998897448294832,0.30723747935912765
+Comonotone surrogate,6,Ridge,Shear Strength (mpa),0.9903569627186738,3.009446234398512
+Comonotone surrogate,6,Extra Trees,Shear Strength (mpa),0.9998162900486688,0.2549860212738802
+Comonotone surrogate,6,Ridge,Hardness Vickers,0.9947796057482405,1.15359813122622
+Comonotone surrogate,6,Extra Trees,Hardness Vickers,0.9998976580972193,0.1097500740747925
+Comonotone surrogate,7,Ridge,Tensile Strength,0.9971438985415907,1.9064176106096427
+Comonotone surrogate,7,Extra Trees,Tensile Strength,0.9999415091988308,0.220072370205366
+Comonotone surrogate,7,Ridge,Proof Stress (mpa),0.9929909505218939,3.8459678257321155
+Comonotone surrogate,7,Extra Trees,Proof Stress (mpa),0.99986042987322,0.3262562150694453
+Comonotone surrogate,7,Ridge,Shear Strength (mpa),0.9962660503275448,2.0199827196470843
+Comonotone surrogate,7,Extra Trees,Shear Strength (mpa),0.9998343601344348,0.24841327769211569
+Comonotone surrogate,7,Ridge,Hardness Vickers,0.9961710616799669,1.0165555849580559
+Comonotone surrogate,7,Extra Trees,Hardness Vickers,0.9998910212734365,0.1150719574918939
+Comonotone surrogate,8,Ridge,Tensile Strength,0.9971565861586926,1.9353500911020576
+Comonotone surrogate,8,Extra Trees,Tensile Strength,0.9999433941912642,0.22078095053783353
+Comonotone surrogate,8,Ridge,Proof Stress (mpa),0.9941917562282823,3.6621256550004286
+Comonotone surrogate,8,Extra Trees,Proof Stress (mpa),0.9998825703935607,0.3311247405737585
+Comonotone surrogate,8,Ridge,Shear Strength (mpa),0.9935977906021052,2.9522679508834027
+Comonotone surrogate,8,Extra Trees,Shear Strength (mpa),0.999893483425679,0.2276104070115844
+Comonotone surrogate,8,Ridge,Hardness Vickers,0.9941862181351581,1.2755917434395085
+Comonotone surrogate,8,Extra Trees,Hardness Vickers,0.9999191802922132,0.10845711386925824
+Comonotone surrogate,9,Ridge,Tensile Strength,0.9964953526229746,2.1106536366170388
+Comonotone surrogate,9,Extra Trees,Tensile Strength,0.9999382334564068,0.21088385895385783
+Comonotone surrogate,9,Ridge,Proof Stress (mpa),0.9959127916677556,2.6806469423390626
+Comonotone surrogate,9,Extra Trees,Proof Stress (mpa),0.999855397983911,0.33183783857951177
+Comonotone surrogate,9,Ridge,Shear Strength (mpa),0.994464628834896,2.308678125421851
+Comonotone surrogate,9,Extra Trees,Shear Strength (mpa),0.9998352618914038,0.26653073727619525
+Comonotone surrogate,9,Ridge,Hardness Vickers,0.9940639302408545,1.1770388356413244
+Comonotone surrogate,9,Extra Trees,Hardness Vickers,0.9998690421061931,0.1105952262614719
+Comonotone surrogate,10,Ridge,Tensile Strength,0.9944817607972841,2.514654356118828
+Comonotone surrogate,10,Extra Trees,Tensile Strength,0.9999379683081143,0.22215133916136778
+Comonotone surrogate,10,Ridge,Proof Stress (mpa),0.9953857554948099,2.8857381169947045
+Comonotone surrogate,10,Extra Trees,Proof Stress (mpa),0.9998148054632573,0.3293395515896723
+Comonotone surrogate,10,Ridge,Shear Strength (mpa),0.99520179194163,2.225418594684988
+Comonotone surrogate,10,Extra Trees,Shear Strength (mpa),0.9998465039556428,0.25495249607379766
+Comonotone surrogate,10,Ridge,Hardness Vickers,0.9951523035718156,1.1332335973564902
+Comonotone surrogate,10,Extra Trees,Hardness Vickers,0.999865259928996,0.1186527926405854
+Comonotone surrogate,11,Ridge,Tensile Strength,0.9980906044979173,1.4980988909912636
+Comonotone surrogate,11,Extra Trees,Tensile Strength,0.9999477710494108,0.21508012248042493
+Comonotone surrogate,11,Ridge,Proof Stress (mpa),0.9978607695413131,2.264597780702668
+Comonotone surrogate,11,Extra Trees,Proof Stress (mpa),0.9998753617881038,0.3216967107945814
+Comonotone surrogate,11,Ridge,Shear Strength (mpa),0.9976404046430308,1.6196608921345887
+Comonotone surrogate,11,Extra Trees,Shear Strength (mpa),0.9998589703517938,0.24135036464029364
+Comonotone surrogate,11,Ridge,Hardness Vickers,0.997161385464312,0.8426763037809217
+Comonotone surrogate,11,Extra Trees,Hardness Vickers,0.9998647377895769,0.12049468504621819
+Comonotone surrogate,12,Ridge,Tensile Strength,0.9977205463391575,1.5952238277716306
+Comonotone surrogate,12,Extra Trees,Tensile Strength,0.9999414443426506,0.21600199000500092
+Comonotone surrogate,12,Ridge,Proof Stress (mpa),0.9968094068969233,2.6694342284531674
+Comonotone surrogate,12,Extra Trees,Proof Stress (mpa),0.9998975192603221,0.3390830963615189
+Comonotone surrogate,12,Ridge,Shear Strength (mpa),0.9976865047741414,1.5267478879582999
+Comonotone surrogate,12,Extra Trees,Shear Strength (mpa),0.999856667393384,0.23402400163172143
+Comonotone surrogate,12,Ridge,Hardness Vickers,0.9960206363094535,0.9598853307797538
+Comonotone surrogate,12,Extra Trees,Hardness Vickers,0.9999232532734454,0.10227189942769956
+Comonotone surrogate,13,Ridge,Tensile Strength,0.9964174467187065,2.0306917358620296
+Comonotone surrogate,13,Extra Trees,Tensile Strength,0.9999376647484409,0.21156635071034866
+Comonotone surrogate,13,Ridge,Proof Stress (mpa),0.9955023406378596,3.1434114557229345
+Comonotone surrogate,13,Extra Trees,Proof Stress (mpa),0.9998557897682584,0.35492519423741553
+Comonotone surrogate,13,Ridge,Shear Strength (mpa),0.9945929726590002,2.5489364943388297
+Comonotone surrogate,13,Extra Trees,Shear Strength (mpa),0.9998748973997108,0.23849773536009553
+Comonotone surrogate,13,Ridge,Hardness Vickers,0.9966707295878333,0.9342407787723481
+Comonotone surrogate,13,Extra Trees,Hardness Vickers,0.9999215275082383,0.10635773087504086
+Comonotone surrogate,14,Ridge,Tensile Strength,0.9955360478721821,2.337838812580462
+Comonotone surrogate,14,Extra Trees,Tensile Strength,0.9999331139314208,0.2255783710137084
+Comonotone surrogate,14,Ridge,Proof Stress (mpa),0.9936966305416572,3.289811310826554
+Comonotone surrogate,14,Extra Trees,Proof Stress (mpa),0.9998172618551316,0.336034107149594
+Comonotone surrogate,14,Ridge,Shear Strength (mpa),0.9936115552082291,2.7638424526953824
+Comonotone surrogate,14,Extra Trees,Shear Strength (mpa),0.9997372318774741,0.2741458334215693
+Comonotone surrogate,14,Ridge,Hardness Vickers,0.9947311362779734,1.135396017178544
+Comonotone surrogate,14,Extra Trees,Hardness Vickers,0.9998842052364888,0.11211110379618144
+Comonotone surrogate,15,Ridge,Tensile Strength,0.9969721116724921,1.8876173966092753
+Comonotone surrogate,15,Extra Trees,Tensile Strength,0.999935907906808,0.21611672623569703
+Comonotone surrogate,15,Ridge,Proof Stress (mpa),0.9967659965025576,2.2521459419279077
+Comonotone surrogate,15,Extra Trees,Proof Stress (mpa),0.9998774812541938,0.32206559270601737
+Comonotone surrogate,15,Ridge,Shear Strength (mpa),0.9957246280446298,2.210494660276558
+Comonotone surrogate,15,Extra Trees,Shear Strength (mpa),0.9998730085308554,0.25883688723258313
+Comonotone surrogate,15,Ridge,Hardness Vickers,0.9947578853557387,1.1284274878861187
+Comonotone surrogate,15,Extra Trees,Hardness Vickers,0.9998825719929882,0.11580166631684091
+Comonotone surrogate,16,Ridge,Tensile Strength,0.9964175628999176,1.9530893520676555
+Comonotone surrogate,16,Extra Trees,Tensile Strength,0.9999416106200102,0.21573068548701696
+Comonotone surrogate,16,Ridge,Proof Stress (mpa),0.9919218229175074,4.203616414441192
+Comonotone surrogate,16,Extra Trees,Proof Stress (mpa),0.9998976268358318,0.32014421491094525
+Comonotone surrogate,16,Ridge,Shear Strength (mpa),0.9931925957657638,2.738592684268009
+Comonotone surrogate,16,Extra Trees,Shear Strength (mpa),0.9998754561783856,0.2411758156397825
+Comonotone surrogate,16,Ridge,Hardness Vickers,0.9944104603705801,1.0166818284559054
+Comonotone surrogate,16,Extra Trees,Hardness Vickers,0.9998923417823403,0.11420375131720144
+Comonotone surrogate,17,Ridge,Tensile Strength,0.9968094205076192,2.015980652718344
+Comonotone surrogate,17,Extra Trees,Tensile Strength,0.9999539781184046,0.20196031820161267
+Comonotone surrogate,17,Ridge,Proof Stress (mpa),0.9944122303041127,2.933724117829449
+Comonotone surrogate,17,Extra Trees,Proof Stress (mpa),0.9998168022051722,0.35052601729332367
+Comonotone surrogate,17,Ridge,Shear Strength (mpa),0.9932642917246097,2.6199162893963157
+Comonotone surrogate,17,Extra Trees,Shear Strength (mpa),0.9998543708403577,0.2445118344843505
+Comonotone surrogate,17,Ridge,Hardness Vickers,0.9955757049957081,1.0042845515187626
+Comonotone surrogate,17,Extra Trees,Hardness Vickers,0.9998725150485607,0.11612855432284096
+Comonotone surrogate,18,Ridge,Tensile Strength,0.9917383687163527,3.1389975344106054
+Comonotone surrogate,18,Extra Trees,Tensile Strength,0.9999309742775986,0.22693396602333643
+Comonotone surrogate,18,Ridge,Proof Stress (mpa),0.9954999697627166,2.9054121246906317
+Comonotone surrogate,18,Extra Trees,Proof Stress (mpa),0.9998716775460559,0.3279627581161818
+Comonotone surrogate,18,Ridge,Shear Strength (mpa),0.9938180078501017,2.808618965453715
+Comonotone surrogate,18,Extra Trees,Shear Strength (mpa),0.9998481704716257,0.2486528576592664
+Comonotone surrogate,18,Ridge,Hardness Vickers,0.99550700250048,0.9944547302854109
+Comonotone surrogate,18,Extra Trees,Hardness Vickers,0.999848709388839,0.11788983587729947
+Comonotone surrogate,19,Ridge,Tensile Strength,0.9954768746318398,2.2952940641226864
+Comonotone surrogate,19,Extra Trees,Tensile Strength,0.9999399019391303,0.22695408645916015
+Comonotone surrogate,19,Ridge,Proof Stress (mpa),0.9946847370155928,3.2024191499759995
+Comonotone surrogate,19,Extra Trees,Proof Stress (mpa),0.9998118358686376,0.33425119036433976
+Comonotone surrogate,19,Ridge,Shear Strength (mpa),0.9927605281877749,2.894239544298564
+Comonotone surrogate,19,Extra Trees,Shear Strength (mpa),0.9998205034111785,0.25178538275147944
+Comonotone surrogate,19,Ridge,Hardness Vickers,0.9932927429175894,1.3045209857932294
+Comonotone surrogate,19,Extra Trees,Hardness Vickers,0.9999099035508863,0.10738314524166734

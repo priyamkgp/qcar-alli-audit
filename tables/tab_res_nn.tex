@@ -1,0 +1,13 @@
+\begin{tabular}{@{}lrrrr@{}}
+\toprule
+ & \multicolumn{2}{c}{z-standardized} & \multicolumn{2}{c}{Source-range scaled} \\
+\cmidrule(lr){2-3}\cmidrule(l){4-5}
+Held-out configuration & Median & Mean & Median & Mean \\
+\midrule
+Random holdouts (100 $\times$ 168 rows) & 0.0187 & 0.0256 & 0.0027 & 0.0036 \\
+Contiguous blocks (5) & 0.6727 & 1.2522 & 0.1049 & 0.1388 \\
+Forward holdout (rows 499--666) & 2.9980 & 3.7397 & 0.3202 & 0.3161 \\
+\midrule
+Forward/random ratio & 160 & 146 & 121 & 88 \\
+\bottomrule
+\end{tabular}

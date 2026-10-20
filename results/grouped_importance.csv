@@ -1,0 +1,81 @@
+target,protocol,fold,group,mae_increase,baseline_mae
+Tensile Strength,Shuffled 5-fold,0,Monotone group,46.952408538059686,0.14786937328981242
+Tensile Strength,Shuffled 5-fold,0,Reset group,7.805069752114425,0.14786937328981242
+Tensile Strength,Shuffled 5-fold,1,Monotone group,43.58200399807217,0.1333437697450085
+Tensile Strength,Shuffled 5-fold,1,Reset group,6.0115856192475166,0.1333437697450085
+Tensile Strength,Shuffled 5-fold,2,Monotone group,36.76460272486574,0.18499912287414386
+Tensile Strength,Shuffled 5-fold,2,Reset group,8.194468940149491,0.18499912287414386
+Tensile Strength,Shuffled 5-fold,3,Monotone group,41.72890111766471,0.14058393517274462
+Tensile Strength,Shuffled 5-fold,3,Reset group,8.198860060812745,0.14058393517274462
+Tensile Strength,Shuffled 5-fold,4,Monotone group,42.63065401585213,0.2069125357142821
+Tensile Strength,Shuffled 5-fold,4,Reset group,6.729901714849637,0.2069125357142821
+Tensile Strength,Contiguous 5-fold,0,Monotone group,0.0,23.577149121579662
+Tensile Strength,Contiguous 5-fold,0,Reset group,1.4210854715202005e-15,23.577149121579662
+Tensile Strength,Contiguous 5-fold,1,Monotone group,5.996320578980126,4.0845883396718285
+Tensile Strength,Contiguous 5-fold,1,Reset group,0.012078440394185642,4.0845883396718285
+Tensile Strength,Contiguous 5-fold,2,Monotone group,5.9096534361348905,1.542832809702963
+Tensile Strength,Contiguous 5-fold,2,Reset group,0.21335019553345344,1.542832809702963
+Tensile Strength,Contiguous 5-fold,3,Monotone group,5.907842532268211,3.4965832456140964
+Tensile Strength,Contiguous 5-fold,3,Reset group,0.012022277255630254,3.4965832456140964
+Tensile Strength,Contiguous 5-fold,4,Monotone group,0.031759067042611375,29.328590184837083
+Tensile Strength,Contiguous 5-fold,4,Reset group,0.03290858239349106,29.328590184837083
+Proof Stress (mpa),Shuffled 5-fold,0,Monotone group,62.061476217428506,0.2094532482120497
+Proof Stress (mpa),Shuffled 5-fold,0,Reset group,10.022183134095165,0.2094532482120497
+Proof Stress (mpa),Shuffled 5-fold,1,Monotone group,55.78937742375622,0.1849758037935449
+Proof Stress (mpa),Shuffled 5-fold,1,Reset group,7.857381554291029,0.1849758037935449
+Proof Stress (mpa),Shuffled 5-fold,2,Monotone group,49.220680772011136,0.32971711240899715
+Proof Stress (mpa),Shuffled 5-fold,2,Reset group,10.774217257174177,0.32971711240899715
+Proof Stress (mpa),Shuffled 5-fold,3,Monotone group,55.64447331666666,0.26284083317670215
+Proof Stress (mpa),Shuffled 5-fold,3,Reset group,9.662554505122177,0.26284083317670215
+Proof Stress (mpa),Shuffled 5-fold,4,Monotone group,55.486838023934844,0.24164121647869016
+Proof Stress (mpa),Shuffled 5-fold,4,Reset group,9.433343704918554,0.24164121647869016
+Proof Stress (mpa),Contiguous 5-fold,0,Monotone group,0.0,34.513189560012314
+Proof Stress (mpa),Contiguous 5-fold,0,Reset group,0.0,34.513189560012314
+Proof Stress (mpa),Contiguous 5-fold,1,Monotone group,11.65498625279855,2.0637753327114416
+Proof Stress (mpa),Contiguous 5-fold,1,Reset group,0.538596084266139,2.0637753327114416
+Proof Stress (mpa),Contiguous 5-fold,2,Monotone group,8.830762392481121,1.0081612979323873
+Proof Stress (mpa),Contiguous 5-fold,2,Reset group,0.9355203532581887,1.0081612979323873
+Proof Stress (mpa),Contiguous 5-fold,3,Monotone group,8.773694609147823,2.11416720206773
+Proof Stress (mpa),Contiguous 5-fold,3,Reset group,0.09325595526315507,2.11416720206773
+Proof Stress (mpa),Contiguous 5-fold,4,Monotone group,0.040597566729323374,33.5457564058583
+Proof Stress (mpa),Contiguous 5-fold,4,Reset group,0.042172177788216914,33.5457564058583
+Shear Strength (mpa),Shuffled 5-fold,0,Monotone group,46.567049903096134,0.16488431405473183
+Shear Strength (mpa),Shuffled 5-fold,0,Reset group,7.575986069696154,0.16488431405473183
+Shear Strength (mpa),Shuffled 5-fold,1,Monotone group,41.695515456281086,0.13511728762437478
+Shear Strength (mpa),Shuffled 5-fold,1,Reset group,6.285338179633089,0.13511728762437478
+Shear Strength (mpa),Shuffled 5-fold,2,Monotone group,37.512773910087716,0.277666702224311
+Shear Strength (mpa),Shuffled 5-fold,2,Reset group,7.701340769830827,0.277666702224311
+Shear Strength (mpa),Shuffled 5-fold,3,Monotone group,40.97574953862483,0.17274120346999475
+Shear Strength (mpa),Shuffled 5-fold,3,Reset group,8.178377472407185,0.17274120346999475
+Shear Strength (mpa),Shuffled 5-fold,4,Monotone group,41.60698706776316,0.16145022343806958
+Shear Strength (mpa),Shuffled 5-fold,4,Reset group,7.4119879459496785,0.16145022343806958
+Shear Strength (mpa),Contiguous 5-fold,0,Monotone group,0.0,26.56217830223892
+Shear Strength (mpa),Contiguous 5-fold,0,Reset group,1.4210854715202005e-15,26.56217830223892
+Shear Strength (mpa),Contiguous 5-fold,1,Monotone group,6.828518770804983,3.088835666836333
+Shear Strength (mpa),Contiguous 5-fold,1,Reset group,0.7342705169606584,3.088835666836333
+Shear Strength (mpa),Contiguous 5-fold,2,Monotone group,6.360246101190471,1.0260268640350945
+Shear Strength (mpa),Contiguous 5-fold,2,Reset group,0.6127389285714008,1.0260268640350945
+Shear Strength (mpa),Contiguous 5-fold,3,Monotone group,7.969471306390949,0.9031707542293005
+Shear Strength (mpa),Contiguous 5-fold,3,Reset group,0.11818627349624503,0.9031707542293005
+Shear Strength (mpa),Contiguous 5-fold,4,Monotone group,0.02312379636591828,24.271130665726893
+Shear Strength (mpa),Contiguous 5-fold,4,Reset group,0.02487082017544324,24.271130665726893
+Hardness Vickers,Shuffled 5-fold,0,Monotone group,21.749005607304248,0.08858702616382591
+Hardness Vickers,Shuffled 5-fold,0,Reset group,3.40024323231018,0.08858702616382591
+Hardness Vickers,Shuffled 5-fold,1,Monotone group,19.580720171393033,0.07451255410448046
+Hardness Vickers,Shuffled 5-fold,1,Reset group,2.5910862052860653,0.07451255410448046
+Hardness Vickers,Shuffled 5-fold,2,Monotone group,16.867265086228976,0.09896168047350504
+Hardness Vickers,Shuffled 5-fold,2,Reset group,3.9028317182106997,0.09896168047350504
+Hardness Vickers,Shuffled 5-fold,3,Monotone group,19.01117217534461,0.07845125532582178
+Hardness Vickers,Shuffled 5-fold,3,Reset group,3.7555428661340784,0.07845125532582178
+Hardness Vickers,Shuffled 5-fold,4,Monotone group,19.718141118671674,0.07332891557017722
+Hardness Vickers,Shuffled 5-fold,4,Reset group,3.1034460462719284,0.07332891557017722
+Hardness Vickers,Contiguous 5-fold,0,Monotone group,0.0,12.430306778606981
+Hardness Vickers,Contiguous 5-fold,0,Reset group,3.552713678800501e-16,12.430306778606981
+Hardness Vickers,Contiguous 5-fold,1,Monotone group,3.1692295619403024,1.8300876038557288
+Hardness Vickers,Contiguous 5-fold,1,Reset group,0.03391173880596572,1.8300876038557288
+Hardness Vickers,Contiguous 5-fold,2,Monotone group,2.8802063775062363,0.4173055568609273
+Hardness Vickers,Contiguous 5-fold,2,Reset group,0.08186255388470438,0.4173055568609273
+Hardness Vickers,Contiguous 5-fold,3,Monotone group,3.49737635275694,0.4659755162907062
+Hardness Vickers,Contiguous 5-fold,3,Reset group,0.01524260526315666,0.4659755162907062
+Hardness Vickers,Contiguous 5-fold,4,Monotone group,0.0089531788847097,11.914370347744438
+Hardness Vickers,Contiguous 5-fold,4,Reset group,0.009285906641603248,11.914370347744438

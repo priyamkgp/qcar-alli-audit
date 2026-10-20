@@ -1,0 +1,20 @@
+{
+  "extra_trees_forward_to_random_mae_ratio": {
+    "Tensile Strength": 203.22931140550335,
+    "Proof Stress (mpa)": 155.2486301766652,
+    "Shear Strength (mpa)": 156.15026238815256,
+    "Hardness Vickers": 158.773141130369
+  },
+  "supplied_ann_test_to_train_mae_ratio": {
+    "Tensile Strength": 4.761033598087674,
+    "Proof Stress (mpa)": 3.277502071519716,
+    "Shear Strength (mpa)": 3.6164832049981683,
+    "Hardness Vickers": 3.7873738366944125
+  },
+  "order_trend_test_r2": {
+    "Tensile Strength": 0.9014770766687078,
+    "Proof Stress (mpa)": 0.7604563982559738,
+    "Shear Strength (mpa)": 0.99550777093503,
+    "Hardness Vickers": 0.9851315068428944
+  }
+}

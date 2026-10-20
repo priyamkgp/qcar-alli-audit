@@ -1,0 +1,368 @@
+{
+  "s1": {
+    "master_rows_ps_gt_ts": 607,
+    "master_first_row_ps_gt_ts": 60,
+    "master_r_ps_range": [
+      0.5641790320428046,
+      1.1787711586696674
+    ],
+    "master_r_ss_median": 0.9437400876509727,
+    "master_r_ss_range": [
+      0.6356668810133339,
+      0.972513789775489
+    ],
+    "master_kappa_range": [
+      0.7056998233958507,
+      1.0765516695326034
+    ],
+    "master_kappa_median": 0.7214519811508434,
+    "source_records_ps_gt_ts": 18,
+    "source_four_property_records": 27,
+    "source_r_ss_median": 1.1405702851425712,
+    "source_kappa_range": [
+      0.21999268907810787,
+      1.8913977619338886
+    ],
+    "contaminated_records": [
+      1100,
+      1420,
+      1421
+    ],
+    "records_equal_original": 23,
+    "records_in_prediction_table": 26,
+    "linkage_positional_matches": 94,
+    "linkage_records": 94,
+    "linkage_own_designation_aligned": 4,
+    "linkage_value_valid_for_own_designation": 5,
+    "linkage_integer_ksi": 94,
+    "tensile_distinct_values": 30,
+    "longest_repeated_run": 42,
+    "resets": [
+      {
+        "variable": "Li",
+        "row_id": 643,
+        "value_before": 1.8464,
+        "value_after": 0.0
+      },
+      {
+        "variable": "Zr",
+        "row_id": 662,
+        "value_before": 0.2334,
+        "value_after": 0.0
+      },
+      {
+        "variable": "Si",
+        "row_id": 609,
+        "value_before": 4.6856,
+        "value_after": 0.0487
+      },
+      {
+        "variable": "Si",
+        "row_id": 663,
+        "value_before": 0.056,
+        "value_after": 0.0
+      },
+      {
+        "variable": "Cd",
+        "row_id": 343,
+        "value_before": 0.0251,
+        "value_after": 0.0
+      }
+    ],
+    "cd_master_max": 0.0251,
+    "cd_source_nonzero": [
+      [
+        2020.0,
+        0.25
+      ]
+    ]
+  },
+  "s2": {
+    "z-standardized": {
+      "Contiguous block": {
+        "mean": 1.2522154083698023,
+        "median": 0.672695774465056
+      },
+      "Forward holdout": {
+        "mean": 3.73971837686076,
+        "median": 2.99799012859423
+      },
+      "Random holdout": {
+        "mean": 0.025620808536556815,
+        "median": 0.01868815047981918
+      },
+      "forward_to_random_median_ratio": 160.421981395734,
+      "forward_to_random_mean_ratio": 145.9641045880647,
+      "block_medians": [
+        1.1166078972315083,
+        0.48970530858261596,
+        0.45930482975713655,
+        0.5954455128265439,
+        3.3808560313652984
+      ]
+    },
+    "source-range": {
+      "Contiguous block": {
+        "mean": 0.13883160324744298,
+        "median": 0.10491897206378517
+      },
+      "Forward holdout": {
+        "mean": 0.3160649478135158,
+        "median": 0.32023544475278853
+      },
+      "Random holdout": {
+        "mean": 0.0035885774976368535,
+        "median": 0.002655959422169341
+      },
+      "forward_to_random_median_ratio": 120.57241615959097,
+      "forward_to_random_mean_ratio": 88.07527440097101,
+      "block_medians": [
+        0.1481279787294063,
+        0.07405098562656093,
+        0.0743533817633837,
+        0.10841982355070129,
+        0.3058335199658185
+      ]
+    },
+    "pc1_row_spearman_z": -0.9932721371956844,
+    "pc1_row_spearman_range": -0.9930801309169011,
+    "range_pca_first_two": 0.9673504859292568,
+    "range_pca_first": 0.9250144311090287
+  },
+  "preliminary": {
+    "prelim_pred_50k": {
+      "r2": -0.02091504168646141,
+      "mae": 58.64200540106381,
+      "spearman": -0.05424576403786711,
+      "pred_min": 177.588805,
+      "pred_max": 214.0459891,
+      "pred_sd": 7.511619219420446,
+      "obs_sd": 84.07394206249735
+    },
+    "prelim_pred_100k": {
+      "r2": -0.020866533031862255,
+      "mae": 58.64003829787235,
+      "spearman": -0.04945575526194767,
+      "pred_min": 177.5916,
+      "pred_max": 213.8718,
+      "pred_sd": 7.529407247075191,
+      "obs_sd": 84.07394206249735
+    },
+    "sheet3": {
+      "n": 63,
+      "R": 0.263542254427112,
+      "r2": 0.06683487151482392,
+      "pred_sd": 0.06609824997175315,
+      "target_sd": 0.21046680650925753
+    }
+  },
+  "s5": {
+    "monotone_group": [
+      "Al",
+      "Cu",
+      "Mg",
+      "Mn",
+      "Zn"
+    ],
+    "reset_group": [
+      "Li",
+      "Zr",
+      "Si",
+      "Cd"
+    ]
+  },
+  "s4": [
+    {
+      "control": "Comonotone surrogate",
+      "model": "Extra Trees",
+      "target": "Hardness Vickers",
+      "median": 0.9998907025599236,
+      "min": 0.999848709388839,
+      "max": 0.999924729580756
+    },
+    {
+      "control": "Comonotone surrogate",
+      "model": "Extra Trees",
+      "target": "Proof Stress (mpa)",
+      "median": 0.9998709891525879,
+      "min": 0.9998118358686376,
+      "max": 0.9999353427950757
+    },
+    {
+      "control": "Comonotone surrogate",
+      "model": "Extra Trees",
+      "target": "Shear Strength (mpa)",
+      "median": 0.9998512706559917,
+      "min": 0.9997372318774741,
+      "max": 0.9999135753806782
+    },
+    {
+      "control": "Comonotone surrogate",
+      "model": "Extra Trees",
+      "target": "Tensile Strength",
+      "median": 0.9999390587286929,
+      "min": 0.9999286700267134,
+      "max": 0.9999539781184046
+    },
+    {
+      "control": "Comonotone surrogate",
+      "model": "Ridge",
+      "target": "Hardness Vickers",
+      "median": 0.995026010725413,
+      "min": 0.9925530536886273,
+      "max": 0.997161385464312
+    },
+    {
+      "control": "Comonotone surrogate",
+      "model": "Ridge",
+      "target": "Proof Stress (mpa)",
+      "median": 0.9945484836598528,
+      "min": 0.9906063896358867,
+      "max": 0.9978607695413131
+    },
+    {
+      "control": "Comonotone surrogate",
+      "model": "Ridge",
+      "target": "Shear Strength (mpa)",
+      "median": 0.9942158985181877,
+      "min": 0.9872413088353726,
+      "max": 0.9976865047741414
+    },
+    {
+      "control": "Comonotone surrogate",
+      "model": "Ridge",
+      "target": "Tensile Strength",
+      "median": 0.9968907660900557,
+      "min": 0.9917383687163527,
+      "max": 0.9987888964639434
+    },
+    {
+      "control": "Master table",
+      "model": "Extra Trees",
+      "target": "Hardness Vickers",
+      "median": 0.9999273757158882,
+      "min": 0.9999273757158882,
+      "max": 0.9999273757158882
+    },
+    {
+      "control": "Master table",
+      "model": "Extra Trees",
+      "target": "Proof Stress (mpa)",
+      "median": 0.9998864856998179,
+      "min": 0.9998864856998179,
+      "max": 0.9998864856998179
+    },
+    {
+      "control": "Master table",
+      "model": "Extra Trees",
+      "target": "Shear Strength (mpa)",
+      "median": 0.9998830359678365,
+      "min": 0.9998830359678365,
+      "max": 0.9998830359678365
+    },
+    {
+      "control": "Master table",
+      "model": "Extra Trees",
+      "target": "Tensile Strength",
+      "median": 0.9999658235657823,
+      "min": 0.9999658235657823,
+      "max": 0.9999658235657823
+    },
+    {
+      "control": "Master table",
+      "model": "Ridge",
+      "target": "Hardness Vickers",
+      "median": 0.9916368181016181,
+      "min": 0.9916368181016181,
+      "max": 0.9916368181016181
+    },
+    {
+      "control": "Master table",
+      "model": "Ridge",
+      "target": "Proof Stress (mpa)",
+      "median": 0.9919360509331802,
+      "min": 0.9919360509331802,
+      "max": 0.9919360509331802
+    },
+    {
+      "control": "Master table",
+      "model": "Ridge",
+      "target": "Shear Strength (mpa)",
+      "median": 0.9914381103807536,
+      "min": 0.9914381103807536,
+      "max": 0.9914381103807536
+    },
+    {
+      "control": "Master table",
+      "model": "Ridge",
+      "target": "Tensile Strength",
+      "median": 0.9953288435075807,
+      "min": 0.9953288435075807,
+      "max": 0.9953288435075807
+    },
+    {
+      "control": "Response randomization",
+      "model": "Extra Trees",
+      "target": "Hardness Vickers",
+      "median": -0.374689289467836,
+      "min": -0.5208171520528104,
+      "max": -0.28074670582740113
+    },
+    {
+      "control": "Response randomization",
+      "model": "Extra Trees",
+      "target": "Proof Stress (mpa)",
+      "median": -0.356515654765715,
+      "min": -0.4856018750316602,
+      "max": -0.24143488473600838
+    },
+    {
+      "control": "Response randomization",
+      "model": "Extra Trees",
+      "target": "Shear Strength (mpa)",
+      "median": -0.3100644551019658,
+      "min": -0.4225596630332793,
+      "max": -0.20777178942833374
+    },
+    {
+      "control": "Response randomization",
+      "model": "Extra Trees",
+      "target": "Tensile Strength",
+      "median": -0.34336602291235463,
+      "min": -0.4228323484589187,
+      "max": -0.24546500597013
+    },
+    {
+      "control": "Response randomization",
+      "model": "Ridge",
+      "target": "Hardness Vickers",
+      "median": -0.014703903594561751,
+      "min": -0.038605510247238684,
+      "max": -0.0008817055281427066
+    },
+    {
+      "control": "Response randomization",
+      "model": "Ridge",
+      "target": "Proof Stress (mpa)",
+      "median": -0.017930725242732204,
+      "min": -0.03317869671773632,
+      "max": -0.00813320961144015
+    },
+    {
+      "control": "Response randomization",
+      "model": "Ridge",
+      "target": "Shear Strength (mpa)",
+      "median": -0.018906069484222687,
+      "min": -0.026152619697659363,
+      "max": 0.0006024077228454772
+    },
+    {
+      "control": "Response randomization",
+      "model": "Ridge",
+      "target": "Tensile Strength",
+      "median": -0.016411508285798848,
+      "min": -0.03324528533948379,
+      "max": -0.0032511832796717766
+    }
+  ]
+}

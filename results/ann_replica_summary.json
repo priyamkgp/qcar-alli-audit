@@ -1,0 +1,34 @@
+{
+  "Tensile Strength": {
+    "stored_forward_mae": 6.325207738095238,
+    "replica_forward_mae_median": 34.61831286623058,
+    "replica_forward_mae_min": 8.375051983698338,
+    "replica_forward_mae_max": 115.37427233761086,
+    "fraction_of_replicas_at_or_below_stored": 0.0,
+    "native_test_R_median": 0.9999306145121398
+  },
+  "Proof Stress (mpa)": {
+    "stored_forward_mae": 7.4431875000000005,
+    "replica_forward_mae_median": 58.94850805009029,
+    "replica_forward_mae_min": 11.748385992013016,
+    "replica_forward_mae_max": 542.7066667493714,
+    "fraction_of_replicas_at_or_below_stored": 0.0,
+    "native_test_R_median": 0.9998361795853756
+  },
+  "Shear Strength (mpa)": {
+    "stored_forward_mae": 5.223664285714285,
+    "replica_forward_mae_median": 33.164259106772164,
+    "replica_forward_mae_min": 11.529579916358783,
+    "replica_forward_mae_max": 122.94486627767944,
+    "fraction_of_replicas_at_or_below_stored": 0.0,
+    "native_test_R_median": 0.999871939936398
+  },
+  "Hardness Vickers": {
+    "stored_forward_mae": 2.965761904761905,
+    "replica_forward_mae_median": 14.940530075997922,
+    "replica_forward_mae_min": 5.076361825184739,
+    "replica_forward_mae_max": 58.214851911909854,
+    "fraction_of_replicas_at_or_below_stored": 0.0,
+    "native_test_R_median": 0.9998762725604162
+  }
+}

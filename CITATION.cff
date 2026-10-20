@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the article below."
+title: "QCAR audit suite: code and data for 'Audit of Quantitative Composition Activity in Aluminium-Lithium (Al-Li) Alloy Property Data using Machine Learning'"
+authors:
+  - family-names: Sarkar
+    given-names: Sukanta
+    affiliation: "School of Medical Science and Technology, Indian Institute of Technology Kharagpur"
+  - family-names: Chakraborty
+    given-names: Priyam
+    affiliation: "Department of Aerospace Engineering, Indian Institute of Technology Kharagpur"
+    orcid: "https://orcid.org/0000-0002-6958-3262"
+license: MIT
+version: "1.0.0"
+date-released: "2026-10-02"

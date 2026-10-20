@@ -1,0 +1,361 @@
+target,protocol,fold,feature,mae_increase_when_permuted,repeat_sd
+Tensile Strength,Shuffled 5-fold,0,Al,9.74008974132461,0.7413330753046846
+Tensile Strength,Shuffled 5-fold,0,Cu,7.350803912095745,0.4928289793477528
+Tensile Strength,Shuffled 5-fold,0,Li,2.063681966293525,0.1527982669263033
+Tensile Strength,Shuffled 5-fold,0,Mg,7.19682840354475,0.3943638512896974
+Tensile Strength,Shuffled 5-fold,0,Mn,8.312554546019891,0.524551166954966
+Tensile Strength,Shuffled 5-fold,0,Zr,2.0820077575559583,0.14121084780268514
+Tensile Strength,Shuffled 5-fold,0,Si,2.018519942288536,0.13692333829898626
+Tensile Strength,Shuffled 5-fold,0,Zn,7.310861796890542,0.48900768690616225
+Tensile Strength,Shuffled 5-fold,0,Cd,1.3068820056902932,0.07671414456515115
+Tensile Strength,Shuffled 5-fold,1,Al,6.479160881747513,0.4813654473063113
+Tensile Strength,Shuffled 5-fold,1,Cu,6.985754902114429,0.3777235626661862
+Tensile Strength,Shuffled 5-fold,1,Li,1.3851286257462778,0.04522026252008286
+Tensile Strength,Shuffled 5-fold,1,Mg,8.361747524471394,0.507315667234595
+Tensile Strength,Shuffled 5-fold,1,Mn,6.744085726026131,0.41822081932950966
+Tensile Strength,Shuffled 5-fold,1,Zr,1.8991061019589637,0.0532925880731874
+Tensile Strength,Shuffled 5-fold,1,Si,1.673022971859453,0.06412286936378135
+Tensile Strength,Shuffled 5-fold,1,Zn,8.758659830659216,0.5717739971380266
+Tensile Strength,Shuffled 5-fold,1,Cd,1.4149879934390657,0.05594128138642624
+Tensile Strength,Shuffled 5-fold,2,Al,5.184054078298429,0.4459805890295734
+Tensile Strength,Shuffled 5-fold,2,Cu,6.9216496354994534,0.5028253903239606
+Tensile Strength,Shuffled 5-fold,2,Li,1.5670162706006185,0.05298368621576477
+Tensile Strength,Shuffled 5-fold,2,Mg,7.626538454882732,0.5111943262491542
+Tensile Strength,Shuffled 5-fold,2,Mn,7.235492523267996,0.5046966413694117
+Tensile Strength,Shuffled 5-fold,2,Zr,2.885477027528641,0.17619874347000639
+Tensile Strength,Shuffled 5-fold,2,Si,2.3788316931928093,0.11756751582056948
+Tensile Strength,Shuffled 5-fold,2,Zn,6.386301502546553,0.47661507989434077
+Tensile Strength,Shuffled 5-fold,2,Cd,1.5172237742167987,0.17384221172254127
+Tensile Strength,Shuffled 5-fold,3,Al,8.323989367355892,0.6607273585751524
+Tensile Strength,Shuffled 5-fold,3,Cu,6.350301581740077,0.4072669229993175
+Tensile Strength,Shuffled 5-fold,3,Li,1.9305949583959923,0.0510978695855202
+Tensile Strength,Shuffled 5-fold,3,Mg,7.834132061739178,0.543378909598903
+Tensile Strength,Shuffled 5-fold,3,Mn,7.590422386748136,0.49330779911244244
+Tensile Strength,Shuffled 5-fold,3,Zr,2.6882931188596695,0.09088626436468085
+Tensile Strength,Shuffled 5-fold,3,Si,1.9638340715315195,0.10641193065496496
+Tensile Strength,Shuffled 5-fold,3,Zn,5.730693827506278,0.3501010576732698
+Tensile Strength,Shuffled 5-fold,3,Cd,1.858492469244532,0.16695038014157274
+Tensile Strength,Shuffled 5-fold,4,Al,8.604289152944869,0.6392516042362536
+Tensile Strength,Shuffled 5-fold,4,Cu,7.9433734322055205,0.5675655093472314
+Tensile Strength,Shuffled 5-fold,4,Li,1.2485550443922382,0.08944735046161599
+Tensile Strength,Shuffled 5-fold,4,Mg,7.371385792982471,0.4412070273490409
+Tensile Strength,Shuffled 5-fold,4,Mn,6.900104438001262,0.4492682120464859
+Tensile Strength,Shuffled 5-fold,4,Zr,2.243260379041351,0.15760501082413794
+Tensile Strength,Shuffled 5-fold,4,Si,1.800530760338361,0.08944576008608292
+Tensile Strength,Shuffled 5-fold,4,Zn,5.07732181343986,0.32729914967215573
+Tensile Strength,Shuffled 5-fold,4,Cd,1.5549807512531368,0.05585351467849349
+Tensile Strength,Contiguous 5-fold,0,Al,0.0,0.0
+Tensile Strength,Contiguous 5-fold,0,Cu,0.0,0.0
+Tensile Strength,Contiguous 5-fold,0,Li,0.0,0.0
+Tensile Strength,Contiguous 5-fold,0,Mg,0.0,0.0
+Tensile Strength,Contiguous 5-fold,0,Mn,0.0,0.0
+Tensile Strength,Contiguous 5-fold,0,Zr,0.0,0.0
+Tensile Strength,Contiguous 5-fold,0,Si,0.0,0.0
+Tensile Strength,Contiguous 5-fold,0,Zn,0.0,0.0
+Tensile Strength,Contiguous 5-fold,0,Cd,1.4210854715202005e-15,2.8421709430404013e-15
+Tensile Strength,Contiguous 5-fold,1,Al,0.379997782290463,0.06541359224288633
+Tensile Strength,Contiguous 5-fold,1,Cu,0.1046787619115948,0.05410327414585076
+Tensile Strength,Contiguous 5-fold,1,Li,0.0018020697474177894,0.0019560282955039966
+Tensile Strength,Contiguous 5-fold,1,Mg,0.5467553785399899,0.10432131703130038
+Tensile Strength,Contiguous 5-fold,1,Mn,0.48077584498182746,0.11679619203319944
+Tensile Strength,Contiguous 5-fold,1,Zr,0.033509318647147165,0.010987389517564294
+Tensile Strength,Contiguous 5-fold,1,Si,0.019023129735933963,0.002898270307006625
+Tensile Strength,Contiguous 5-fold,1,Zn,0.47118682984117816,0.08411862506358266
+Tensile Strength,Contiguous 5-fold,1,Cd,-0.0999653617967792,0.008576610167117383
+Tensile Strength,Contiguous 5-fold,2,Al,0.7005533277836578,0.07978834092532458
+Tensile Strength,Contiguous 5-fold,2,Cu,0.8858240459182835,0.06572052650383861
+Tensile Strength,Contiguous 5-fold,2,Li,0.006848987647678095,0.00781363872538538
+Tensile Strength,Contiguous 5-fold,2,Mg,0.7118020486035564,0.07113694746046514
+Tensile Strength,Contiguous 5-fold,2,Mn,0.36610095949688215,0.02690081572559941
+Tensile Strength,Contiguous 5-fold,2,Zr,0.18608444862152468,0.029787132250201312
+Tensile Strength,Contiguous 5-fold,2,Si,-0.0037379387755137826,0.0015644790766545593
+Tensile Strength,Contiguous 5-fold,2,Zn,0.24515824207836143,0.006636377410366289
+Tensile Strength,Contiguous 5-fold,2,Cd,0.22650763310058122,0.03467779225680736
+Tensile Strength,Contiguous 5-fold,3,Al,0.4102120200500886,0.06309011897474111
+Tensile Strength,Contiguous 5-fold,3,Cu,0.22846877412276206,0.025508049308235883
+Tensile Strength,Contiguous 5-fold,3,Li,-5.329070518200751e-16,1.7763568394002506e-16
+Tensile Strength,Contiguous 5-fold,3,Mg,0.24290700281952296,0.03267536210044257
+Tensile Strength,Contiguous 5-fold,3,Mn,0.35939019235585423,0.06313079529973761
+Tensile Strength,Contiguous 5-fold,3,Zr,-2.042810365310288e-15,8.236627820231227e-16
+Tensile Strength,Contiguous 5-fold,3,Si,7.993605777301127e-16,1.7763568394002506e-16
+Tensile Strength,Contiguous 5-fold,3,Zn,0.21074760714283255,0.06031162115735435
+Tensile Strength,Contiguous 5-fold,3,Cd,0.0,0.0
+Tensile Strength,Contiguous 5-fold,4,Al,0.02654103822055518,0.0020362145724204567
+Tensile Strength,Contiguous 5-fold,4,Cu,0.0,0.0
+Tensile Strength,Contiguous 5-fold,4,Li,0.028145330983721094,0.029080438791056214
+Tensile Strength,Contiguous 5-fold,4,Mg,0.0,0.0
+Tensile Strength,Contiguous 5-fold,4,Mn,0.0,0.0
+Tensile Strength,Contiguous 5-fold,4,Zr,0.04136762938596732,0.008873275253184645
+Tensile Strength,Contiguous 5-fold,4,Si,0.009975569078967083,0.024473972411557247
+Tensile Strength,Contiguous 5-fold,4,Zn,0.0,0.0
+Tensile Strength,Contiguous 5-fold,4,Cd,0.47574553900377836,0.04018718771915786
+Proof Stress (mpa),Shuffled 5-fold,0,Al,11.910045125932836,0.9948886632185595
+Proof Stress (mpa),Shuffled 5-fold,0,Cu,10.887395987344538,0.7235996083560172
+Proof Stress (mpa),Shuffled 5-fold,0,Li,2.4268009974191607,0.1708608360083828
+Proof Stress (mpa),Shuffled 5-fold,0,Mg,7.964724435043538,0.599582548243614
+Proof Stress (mpa),Shuffled 5-fold,0,Mn,11.558148225248766,0.8473256696234301
+Proof Stress (mpa),Shuffled 5-fold,0,Zr,2.827871264272397,0.22255958009654375
+Proof Stress (mpa),Shuffled 5-fold,0,Si,2.447781007618177,0.14131659964611007
+Proof Stress (mpa),Shuffled 5-fold,0,Zn,10.669614079726374,0.7863286858682011
+Proof Stress (mpa),Shuffled 5-fold,0,Cd,2.5195152928793667,0.18312909719336484
+Proof Stress (mpa),Shuffled 5-fold,1,Al,8.666201089863177,0.6103158367101347
+Proof Stress (mpa),Shuffled 5-fold,1,Cu,7.962030092848243,0.42477174902714493
+Proof Stress (mpa),Shuffled 5-fold,1,Li,2.056549664676605,0.06543127094526399
+Proof Stress (mpa),Shuffled 5-fold,1,Mg,11.179918146548484,0.6094013397952838
+Proof Stress (mpa),Shuffled 5-fold,1,Mn,11.730064071237551,0.7040426990807409
+Proof Stress (mpa),Shuffled 5-fold,1,Zr,3.014011675559693,0.08999726380813017
+Proof Stress (mpa),Shuffled 5-fold,1,Si,1.4867059484452543,0.046671860943774617
+Proof Stress (mpa),Shuffled 5-fold,1,Zn,8.97721958613183,0.5555611406963339
+Proof Stress (mpa),Shuffled 5-fold,1,Cd,2.1775611684390532,0.033134858025378966
+Proof Stress (mpa),Shuffled 5-fold,2,Al,8.390840413554715,0.7136802193725746
+Proof Stress (mpa),Shuffled 5-fold,2,Cu,8.79424934431092,0.6300142626243413
+Proof Stress (mpa),Shuffled 5-fold,2,Li,1.8497075105934428,0.07609980062044246
+Proof Stress (mpa),Shuffled 5-fold,2,Mg,10.287542521140661,0.7732002574083163
+Proof Stress (mpa),Shuffled 5-fold,2,Mn,9.801477670694577,0.7317664901266037
+Proof Stress (mpa),Shuffled 5-fold,2,Zr,3.6926765049901507,0.16991673861054035
+Proof Stress (mpa),Shuffled 5-fold,2,Si,2.834240755894194,0.11365197993062479
+Proof Stress (mpa),Shuffled 5-fold,2,Zn,7.3064170571003375,0.48566517111451624
+Proof Stress (mpa),Shuffled 5-fold,2,Cd,2.211647826729013,0.2815688821760424
+Proof Stress (mpa),Shuffled 5-fold,3,Al,10.40694438330198,0.7921049064207788
+Proof Stress (mpa),Shuffled 5-fold,3,Cu,8.1873666607456,0.5010211989595732
+Proof Stress (mpa),Shuffled 5-fold,3,Li,2.0195865188909736,0.04813920138173092
+Proof Stress (mpa),Shuffled 5-fold,3,Mg,9.899302806187341,0.6767302489960817
+Proof Stress (mpa),Shuffled 5-fold,3,Mn,11.435214284038201,0.7569090033993311
+Proof Stress (mpa),Shuffled 5-fold,3,Zr,3.178625018170416,0.10717054398313072
+Proof Stress (mpa),Shuffled 5-fold,3,Si,2.0971651175438666,0.13932222901082045
+Proof Stress (mpa),Shuffled 5-fold,3,Zn,8.090848401879693,0.4571931243859115
+Proof Stress (mpa),Shuffled 5-fold,3,Cd,2.2027632797775643,0.15915704002579095
+Proof Stress (mpa),Shuffled 5-fold,4,Al,9.0134613375,0.6050904246949382
+Proof Stress (mpa),Shuffled 5-fold,4,Cu,9.19317875350879,0.5503169601255797
+Proof Stress (mpa),Shuffled 5-fold,4,Li,2.00662481723058,0.14723852270886
+Proof Stress (mpa),Shuffled 5-fold,4,Mg,10.280830742199264,0.6151942932456176
+Proof Stress (mpa),Shuffled 5-fold,4,Mn,9.478051216259406,0.6224075219110059
+Proof Stress (mpa),Shuffled 5-fold,4,Zr,2.9722747838659287,0.20174989287069248
+Proof Stress (mpa),Shuffled 5-fold,4,Si,2.4305978590225608,0.16645502442562862
+Proof Stress (mpa),Shuffled 5-fold,4,Zn,8.23839094837094,0.5257046544712567
+Proof Stress (mpa),Shuffled 5-fold,4,Cd,2.109871812030072,0.04933522869766968
+Proof Stress (mpa),Contiguous 5-fold,0,Al,0.0,0.0
+Proof Stress (mpa),Contiguous 5-fold,0,Cu,0.0,0.0
+Proof Stress (mpa),Contiguous 5-fold,0,Li,0.0,0.0
+Proof Stress (mpa),Contiguous 5-fold,0,Mg,0.0,0.0
+Proof Stress (mpa),Contiguous 5-fold,0,Mn,0.0,0.0
+Proof Stress (mpa),Contiguous 5-fold,0,Zr,0.0,0.0
+Proof Stress (mpa),Contiguous 5-fold,0,Si,0.0,0.0
+Proof Stress (mpa),Contiguous 5-fold,0,Zn,0.0,0.0
+Proof Stress (mpa),Contiguous 5-fold,0,Cd,0.0,0.0
+Proof Stress (mpa),Contiguous 5-fold,1,Al,1.205879679726334,0.055765459352511086
+Proof Stress (mpa),Contiguous 5-fold,1,Cu,1.008871179104438,0.07470819619232182
+Proof Stress (mpa),Contiguous 5-fold,1,Li,0.19240177363181007,0.03448452135693525
+Proof Stress (mpa),Contiguous 5-fold,1,Mg,2.6358268320895086,0.21008310433710675
+Proof Stress (mpa),Contiguous 5-fold,1,Mn,2.2146279642412727,0.1517815889092839
+Proof Stress (mpa),Contiguous 5-fold,1,Zr,0.2063977412935003,0.021053784969707355
+Proof Stress (mpa),Contiguous 5-fold,1,Si,-0.012039918532340987,0.007062549830628822
+Proof Stress (mpa),Contiguous 5-fold,1,Zn,1.3449281977611667,0.0766177201209977
+Proof Stress (mpa),Contiguous 5-fold,1,Cd,0.10310787562190171,0.03908003860320978
+Proof Stress (mpa),Contiguous 5-fold,2,Al,1.7335381473684142,0.17824117947877624
+Proof Stress (mpa),Contiguous 5-fold,2,Cu,1.843515222117793,0.1614002294718128
+Proof Stress (mpa),Contiguous 5-fold,2,Li,0.08761894047619907,0.01228271712149163
+Proof Stress (mpa),Contiguous 5-fold,2,Mg,1.7818116108395974,0.16651798534661155
+Proof Stress (mpa),Contiguous 5-fold,2,Mn,1.1223339090852096,0.1230902645765425
+Proof Stress (mpa),Contiguous 5-fold,2,Zr,1.066268713157915,0.12498327829792186
+Proof Stress (mpa),Contiguous 5-fold,2,Si,0.24580091259399098,0.036405747733236404
+Proof Stress (mpa),Contiguous 5-fold,2,Zn,1.138632306766916,0.13448934245149846
+Proof Stress (mpa),Contiguous 5-fold,2,Cd,1.2156535755639362,0.18820673111916053
+Proof Stress (mpa),Contiguous 5-fold,3,Al,0.6376255213659088,0.06478796717796685
+Proof Stress (mpa),Contiguous 5-fold,3,Cu,1.3721067303257999,0.0885293351562299
+Proof Stress (mpa),Contiguous 5-fold,3,Li,0.05607983508772056,0.016020547822507204
+Proof Stress (mpa),Contiguous 5-fold,3,Mg,2.177013291102727,0.14174297343457315
+Proof Stress (mpa),Contiguous 5-fold,3,Mn,1.3037406934210436,0.09516142113302244
+Proof Stress (mpa),Contiguous 5-fold,3,Zr,0.02993244730575704,0.014426083209845774
+Proof Stress (mpa),Contiguous 5-fold,3,Si,-0.025070325501250768,0.0066519496274799255
+Proof Stress (mpa),Contiguous 5-fold,3,Zn,1.5404036907268004,0.14447751056106953
+Proof Stress (mpa),Contiguous 5-fold,3,Cd,0.0,0.0
+Proof Stress (mpa),Contiguous 5-fold,4,Al,0.034365106203006236,0.003070448082640433
+Proof Stress (mpa),Contiguous 5-fold,4,Cu,0.0,0.0
+Proof Stress (mpa),Contiguous 5-fold,4,Li,0.12778855968044667,0.056954033567213465
+Proof Stress (mpa),Contiguous 5-fold,4,Mg,0.0,0.0
+Proof Stress (mpa),Contiguous 5-fold,4,Mn,0.0,0.0
+Proof Stress (mpa),Contiguous 5-fold,4,Zr,-0.07208519830827101,0.01248390708736299
+Proof Stress (mpa),Contiguous 5-fold,4,Si,0.017832791823285277,0.03769569344274581
+Proof Stress (mpa),Contiguous 5-fold,4,Zn,0.0,0.0
+Proof Stress (mpa),Contiguous 5-fold,4,Cd,0.528461350563893,0.0433635489991456
+Shear Strength (mpa),Shuffled 5-fold,0,Al,9.415475140280734,0.7889223121870863
+Shear Strength (mpa),Shuffled 5-fold,0,Cu,7.278837208009053,0.4849506529670438
+Shear Strength (mpa),Shuffled 5-fold,0,Li,1.7669863457444754,0.1363074065994266
+Shear Strength (mpa),Shuffled 5-fold,0,Mg,6.8989220144145325,0.4856445514013484
+Shear Strength (mpa),Shuffled 5-fold,0,Mn,8.77278351074538,0.6172055236502831
+Shear Strength (mpa),Shuffled 5-fold,0,Zr,2.8671353990538346,0.2044343941483171
+Shear Strength (mpa),Shuffled 5-fold,0,Si,1.462207837300103,0.1040021836267498
+Shear Strength (mpa),Shuffled 5-fold,0,Zn,7.344846686767058,0.5518168280278745
+Shear Strength (mpa),Shuffled 5-fold,0,Cd,1.5077982171552864,0.08985124876254479
+Shear Strength (mpa),Shuffled 5-fold,1,Al,6.889672483084587,0.49458707103132044
+Shear Strength (mpa),Shuffled 5-fold,1,Cu,6.282444934421628,0.40265782539616696
+Shear Strength (mpa),Shuffled 5-fold,1,Li,1.4504492964241358,0.049243628740442885
+Shear Strength (mpa),Shuffled 5-fold,1,Mg,8.322220966106961,0.49730490573512537
+Shear Strength (mpa),Shuffled 5-fold,1,Mn,7.402148097232578,0.4822264421028938
+Shear Strength (mpa),Shuffled 5-fold,1,Zr,2.1931781198072087,0.03798125976454071
+Shear Strength (mpa),Shuffled 5-fold,1,Si,1.6583052389303479,0.09816358544381248
+Shear Strength (mpa),Shuffled 5-fold,1,Zn,7.216356363588306,0.4271789831099225
+Shear Strength (mpa),Shuffled 5-fold,1,Cd,1.1940174209266115,0.02152181984105488
+Shear Strength (mpa),Shuffled 5-fold,2,Al,6.119393245927311,0.5530842455975518
+Shear Strength (mpa),Shuffled 5-fold,2,Cu,6.895272724874682,0.4942118384601038
+Shear Strength (mpa),Shuffled 5-fold,2,Li,1.7313124922618968,0.0810403363756061
+Shear Strength (mpa),Shuffled 5-fold,2,Mg,7.653905232550126,0.5576237342669949
+Shear Strength (mpa),Shuffled 5-fold,2,Mn,7.891200404699236,0.6188564276916045
+Shear Strength (mpa),Shuffled 5-fold,2,Zr,2.43474251889097,0.14346189091048014
+Shear Strength (mpa),Shuffled 5-fold,2,Si,2.0269260795739354,0.08452215633744616
+Shear Strength (mpa),Shuffled 5-fold,2,Zn,5.270379791165402,0.3729334662297766
+Shear Strength (mpa),Shuffled 5-fold,2,Cd,1.9963943090225347,0.325969571879576
+Shear Strength (mpa),Shuffled 5-fold,3,Al,7.655685848754304,0.5915861286962278
+Shear Strength (mpa),Shuffled 5-fold,3,Cu,5.4657013986677745,0.33652268131576185
+Shear Strength (mpa),Shuffled 5-fold,3,Li,1.8807040974698463,0.059216088848972934
+Shear Strength (mpa),Shuffled 5-fold,3,Mg,8.092225720408138,0.5765767696830307
+Shear Strength (mpa),Shuffled 5-fold,3,Mn,8.05454460606425,0.5273595768750876
+Shear Strength (mpa),Shuffled 5-fold,3,Zr,2.889252630682331,0.11376750213808538
+Shear Strength (mpa),Shuffled 5-fold,3,Si,1.865416259297028,0.13851577089713624
+Shear Strength (mpa),Shuffled 5-fold,3,Zn,5.839076412361232,0.35731251995610697
+Shear Strength (mpa),Shuffled 5-fold,3,Cd,1.280904660763515,0.0969457800000335
+Shear Strength (mpa),Shuffled 5-fold,4,Al,6.761719735329388,0.4709617844277432
+Shear Strength (mpa),Shuffled 5-fold,4,Cu,7.3125704380907495,0.43960958311992904
+Shear Strength (mpa),Shuffled 5-fold,4,Li,2.0641109519154925,0.1216810668915
+Shear Strength (mpa),Shuffled 5-fold,4,Mg,7.376587353137306,0.4281454717788384
+Shear Strength (mpa),Shuffled 5-fold,4,Mn,7.697705019486205,0.500734977940057
+Shear Strength (mpa),Shuffled 5-fold,4,Zr,2.264442506834036,0.14486507544882368
+Shear Strength (mpa),Shuffled 5-fold,4,Si,1.866923904650011,0.09832966199194818
+Shear Strength (mpa),Shuffled 5-fold,4,Zn,5.988343995672206,0.37977586567674537
+Shear Strength (mpa),Shuffled 5-fold,4,Cd,1.221715266111696,0.06739735586776001
+Shear Strength (mpa),Contiguous 5-fold,0,Al,0.0,0.0
+Shear Strength (mpa),Contiguous 5-fold,0,Cu,0.0,0.0
+Shear Strength (mpa),Contiguous 5-fold,0,Li,0.0,0.0
+Shear Strength (mpa),Contiguous 5-fold,0,Mg,0.0,0.0
+Shear Strength (mpa),Contiguous 5-fold,0,Mn,0.0,0.0
+Shear Strength (mpa),Contiguous 5-fold,0,Zr,0.0,0.0
+Shear Strength (mpa),Contiguous 5-fold,0,Si,0.0,0.0
+Shear Strength (mpa),Contiguous 5-fold,0,Zn,0.0,0.0
+Shear Strength (mpa),Contiguous 5-fold,0,Cd,2.1316282072803005e-15,1.7404671430534636e-15
+Shear Strength (mpa),Contiguous 5-fold,1,Al,0.4560572106512987,0.016248505604005165
+Shear Strength (mpa),Contiguous 5-fold,1,Cu,0.533367004070565,0.03648095654106502
+Shear Strength (mpa),Contiguous 5-fold,1,Li,0.07870814054727075,0.008935708990463816
+Shear Strength (mpa),Contiguous 5-fold,1,Mg,1.1997914005540415,0.10686415555668695
+Shear Strength (mpa),Contiguous 5-fold,1,Mn,1.19462222964722,0.13323403054080973
+Shear Strength (mpa),Contiguous 5-fold,1,Zr,0.47453758039349136,0.013827835587790395
+Shear Strength (mpa),Contiguous 5-fold,1,Si,0.09427179330620827,0.006814405954619711
+Shear Strength (mpa),Contiguous 5-fold,1,Zn,0.9304016868498433,0.05809954575225186
+Shear Strength (mpa),Contiguous 5-fold,1,Cd,-0.037266578584351874,0.01255487525150303
+Shear Strength (mpa),Contiguous 5-fold,2,Al,0.6077571137217868,0.10515868405005771
+Shear Strength (mpa),Contiguous 5-fold,2,Cu,0.8338208464912059,0.09688246784188277
+Shear Strength (mpa),Contiguous 5-fold,2,Li,-0.09409745582708742,0.01636351708617063
+Shear Strength (mpa),Contiguous 5-fold,2,Mg,0.9165193909774209,0.1271300718552882
+Shear Strength (mpa),Contiguous 5-fold,2,Mn,0.29266070363406266,0.045521848243672176
+Shear Strength (mpa),Contiguous 5-fold,2,Zr,0.30578182706764007,0.0648340426234582
+Shear Strength (mpa),Contiguous 5-fold,2,Si,-0.07009442293234233,0.010603613063216007
+Shear Strength (mpa),Contiguous 5-fold,2,Zn,0.6107529573934467,0.07967577722240891
+Shear Strength (mpa),Contiguous 5-fold,2,Cd,0.5066713872179813,0.07781096067371226
+Shear Strength (mpa),Contiguous 5-fold,3,Al,1.4559060996241044,0.13062142392985754
+Shear Strength (mpa),Contiguous 5-fold,3,Cu,0.7368454558271167,0.018898360423691304
+Shear Strength (mpa),Contiguous 5-fold,3,Li,0.04974948684210778,0.008257944785636823
+Shear Strength (mpa),Contiguous 5-fold,3,Mg,1.0085442359023138,0.07535050162855877
+Shear Strength (mpa),Contiguous 5-fold,3,Mn,0.9606772631579297,0.08294816268920766
+Shear Strength (mpa),Contiguous 5-fold,3,Zr,0.0,0.0
+Shear Strength (mpa),Contiguous 5-fold,3,Si,0.06519847086466687,0.016722104834649004
+Shear Strength (mpa),Contiguous 5-fold,3,Zn,0.6520542941729911,0.04928273058674153
+Shear Strength (mpa),Contiguous 5-fold,3,Cd,0.0,0.0
+Shear Strength (mpa),Contiguous 5-fold,4,Al,0.019912065162909443,0.0016877686848817792
+Shear Strength (mpa),Contiguous 5-fold,4,Cu,0.0,0.0
+Shear Strength (mpa),Contiguous 5-fold,4,Li,-0.23134559993734313,0.009947865852786765
+Shear Strength (mpa),Contiguous 5-fold,4,Mg,0.0,0.0
+Shear Strength (mpa),Contiguous 5-fold,4,Mn,0.0,0.0
+Shear Strength (mpa),Contiguous 5-fold,4,Zr,-0.04356745275688354,0.00838821366164584
+Shear Strength (mpa),Contiguous 5-fold,4,Si,0.038235438596496606,0.02804702889161913
+Shear Strength (mpa),Contiguous 5-fold,4,Zn,0.0,0.0
+Shear Strength (mpa),Contiguous 5-fold,4,Cd,0.41411144078948536,0.039098448379130374
+Hardness Vickers,Shuffled 5-fold,0,Al,4.222895521825391,0.3484032075203685
+Hardness Vickers,Shuffled 5-fold,0,Cu,3.314266157387172,0.21551683961167253
+Hardness Vickers,Shuffled 5-fold,0,Li,0.8153945297293295,0.064234825396586
+Hardness Vickers,Shuffled 5-fold,0,Mg,3.0744333085687665,0.2140973538200285
+Hardness Vickers,Shuffled 5-fold,0,Mn,3.934702298645161,0.2589577500929616
+Hardness Vickers,Shuffled 5-fold,0,Zr,1.160555150670756,0.08027860174814448
+Hardness Vickers,Shuffled 5-fold,0,Si,0.7489133685634302,0.05327936481826297
+Hardness Vickers,Shuffled 5-fold,0,Zn,3.636449407133972,0.26352005050205396
+Hardness Vickers,Shuffled 5-fold,0,Cd,0.5553168014880929,0.032864495439822186
+Hardness Vickers,Shuffled 5-fold,1,Al,2.741189939490044,0.1960223722245298
+Hardness Vickers,Shuffled 5-fold,1,Cu,2.9507098317475053,0.17817811572408432
+Hardness Vickers,Shuffled 5-fold,1,Li,0.4880486888059661,0.015284344216345547
+Hardness Vickers,Shuffled 5-fold,1,Mg,3.6677776476057202,0.2201091189815151
+Hardness Vickers,Shuffled 5-fold,1,Mn,3.772073614738802,0.22407736368292827
+Hardness Vickers,Shuffled 5-fold,1,Zr,1.0472339774564632,0.03173421477978773
+Hardness Vickers,Shuffled 5-fold,1,Si,0.5887462589552214,0.021872348598406404
+Hardness Vickers,Shuffled 5-fold,1,Zn,3.799308870149253,0.22896591616146933
+Hardness Vickers,Shuffled 5-fold,1,Cd,0.7443467572450226,0.020945936391421435
+Hardness Vickers,Shuffled 5-fold,2,Al,2.6001971449695698,0.2047743784500855
+Hardness Vickers,Shuffled 5-fold,2,Cu,3.064486776490328,0.24473211733997288
+Hardness Vickers,Shuffled 5-fold,2,Li,0.7714524636278137,0.02854594448842978
+Hardness Vickers,Shuffled 5-fold,2,Mg,3.574706722950232,0.27496476683895293
+Hardness Vickers,Shuffled 5-fold,2,Mn,3.6186435528777325,0.2649647170742909
+Hardness Vickers,Shuffled 5-fold,2,Zr,1.140475719369854,0.046597593546402354
+Hardness Vickers,Shuffled 5-fold,2,Si,1.20687815327157,0.05353669141895582
+Hardness Vickers,Shuffled 5-fold,2,Zn,2.4589339935955943,0.15857322315962774
+Hardness Vickers,Shuffled 5-fold,2,Cd,0.6423935202425782,0.10261293363261188
+Hardness Vickers,Shuffled 5-fold,3,Al,3.870756206422301,0.2950889588113062
+Hardness Vickers,Shuffled 5-fold,3,Cu,2.7533393520676617,0.16347701617453295
+Hardness Vickers,Shuffled 5-fold,3,Li,0.9270972010964824,0.029970057754955502
+Hardness Vickers,Shuffled 5-fold,3,Mg,3.674286368546356,0.2677996460895412
+Hardness Vickers,Shuffled 5-fold,3,Mn,3.75484302540725,0.2674269667988786
+Hardness Vickers,Shuffled 5-fold,3,Zr,1.1445303938283107,0.041513178089318425
+Hardness Vickers,Shuffled 5-fold,3,Si,0.9346685259398454,0.06646835691117092
+Hardness Vickers,Shuffled 5-fold,3,Zn,2.5595782114661545,0.16520029869797276
+Hardness Vickers,Shuffled 5-fold,3,Cd,0.7238093251566395,0.06799805469671888
+Hardness Vickers,Shuffled 5-fold,4,Al,2.953755018389727,0.20493408034995106
+Hardness Vickers,Shuffled 5-fold,4,Cu,3.551819206484962,0.22718788349381683
+Hardness Vickers,Shuffled 5-fold,4,Li,0.8436889453634079,0.05275173324380091
+Hardness Vickers,Shuffled 5-fold,4,Mg,3.298398645394734,0.20367349090130055
+Hardness Vickers,Shuffled 5-fold,4,Mn,3.7354302153195533,0.249278575516083
+Hardness Vickers,Shuffled 5-fold,4,Zr,0.8252255371867177,0.030159363872402315
+Hardness Vickers,Shuffled 5-fold,4,Si,0.8837038157894698,0.044760077144250426
+Hardness Vickers,Shuffled 5-fold,4,Zn,2.8947963787593944,0.2003095760290924
+Hardness Vickers,Shuffled 5-fold,4,Cd,0.6217237126879701,0.019241587194555557
+Hardness Vickers,Contiguous 5-fold,0,Al,0.0,0.0
+Hardness Vickers,Contiguous 5-fold,0,Cu,0.0,0.0
+Hardness Vickers,Contiguous 5-fold,0,Li,0.0,0.0
+Hardness Vickers,Contiguous 5-fold,0,Mg,0.0,0.0
+Hardness Vickers,Contiguous 5-fold,0,Mn,0.0,0.0
+Hardness Vickers,Contiguous 5-fold,0,Zr,0.0,0.0
+Hardness Vickers,Contiguous 5-fold,0,Si,3.552713678800501e-16,7.105427357601003e-16
+Hardness Vickers,Contiguous 5-fold,0,Zn,0.0,0.0
+Hardness Vickers,Contiguous 5-fold,0,Cd,0.0,0.0
+Hardness Vickers,Contiguous 5-fold,1,Al,0.20923387537312807,0.026580761381472605
+Hardness Vickers,Contiguous 5-fold,1,Cu,0.14609198208954605,0.02781192343998421
+Hardness Vickers,Contiguous 5-fold,1,Li,0.011994983582087749,0.0013211615981843002
+Hardness Vickers,Contiguous 5-fold,1,Mg,0.38955259477611426,0.055676159738746414
+Hardness Vickers,Contiguous 5-fold,1,Mn,0.35657721940298026,0.05903193528690302
+Hardness Vickers,Contiguous 5-fold,1,Zr,0.045186045771142866,0.004085824068311967
+Hardness Vickers,Contiguous 5-fold,1,Si,0.013089201990047972,0.001037929353233902
+Hardness Vickers,Contiguous 5-fold,1,Zn,0.1901577791044728,0.026756453796006198
+Hardness Vickers,Contiguous 5-fold,1,Cd,-0.026166095771143726,0.0023043829021789446
+Hardness Vickers,Contiguous 5-fold,2,Al,0.5466844953007614,0.06087371671039888
+Hardness Vickers,Contiguous 5-fold,2,Cu,0.7900241253132849,0.07049037158046152
+Hardness Vickers,Contiguous 5-fold,2,Li,0.10191999937345182,0.01757235359524852
+Hardness Vickers,Contiguous 5-fold,2,Mg,0.3696584533208145,0.04929798826490458
+Hardness Vickers,Contiguous 5-fold,2,Mn,0.4802634398496373,0.053945993275061555
+Hardness Vickers,Contiguous 5-fold,2,Zr,0.31824389035089296,0.04153213175232526
+Hardness Vickers,Contiguous 5-fold,2,Si,0.032595597431086386,0.008154723714002814
+Hardness Vickers,Contiguous 5-fold,2,Zn,0.22914915350878645,0.031078062382782046
+Hardness Vickers,Contiguous 5-fold,2,Cd,0.21233209273181056,0.03977192500164103
+Hardness Vickers,Contiguous 5-fold,3,Al,0.5682548393483747,0.04229667651309353
+Hardness Vickers,Contiguous 5-fold,3,Cu,0.46645417005012496,0.03155727399843195
+Hardness Vickers,Contiguous 5-fold,3,Li,0.004706666666664616,0.003981595901813579
+Hardness Vickers,Contiguous 5-fold,3,Mg,0.642343557957384,0.03652089158128512
+Hardness Vickers,Contiguous 5-fold,3,Mn,0.48767771817041955,0.03949210957464988
+Hardness Vickers,Contiguous 5-fold,3,Zr,0.07608207687969162,0.0038540021752845456
+Hardness Vickers,Contiguous 5-fold,3,Si,-0.05375688941102038,0.011889115957861874
+Hardness Vickers,Contiguous 5-fold,3,Zn,0.8679673471804481,0.06068901363504729
+Hardness Vickers,Contiguous 5-fold,3,Cd,0.0,0.0
+Hardness Vickers,Contiguous 5-fold,4,Al,0.007582163847116519,0.0006367351153821693
+Hardness Vickers,Contiguous 5-fold,4,Cu,0.0,0.0
+Hardness Vickers,Contiguous 5-fold,4,Li,0.009070861372181226,0.011923819369487715
+Hardness Vickers,Contiguous 5-fold,4,Mg,0.0,0.0
+Hardness Vickers,Contiguous 5-fold,4,Mn,0.0,0.0
+Hardness Vickers,Contiguous 5-fold,4,Zr,-0.012036254699247805,0.0021843324994120753
+Hardness Vickers,Contiguous 5-fold,4,Si,0.09386863236215355,0.013785169800004724
+Hardness Vickers,Contiguous 5-fold,4,Zn,0.0,0.0
+Hardness Vickers,Contiguous 5-fold,4,Cd,0.22309990664160964,0.01951438328314344

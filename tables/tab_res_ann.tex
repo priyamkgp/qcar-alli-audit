@@ -1,0 +1,18 @@
+\begin{tabular}{@{}p{0.34\linewidth}llll@{}}
+\toprule
+Evidence & Tensile strength & Proof stress & Shear strength & Vickers hardness \\
+\midrule
+Toolbox-reported $R$, random test subset (100 rows) & 0.99995 & 0.99992 & 0.99990 & 0.99996 \\
+Replica, native protocol: test $R$, median [range] & 0.99993 [0.99988, 0.99997] & 0.99984 [0.99936, 0.99993] & 0.99987 [0.99964, 0.99993] & 0.99988 [0.99978, 0.99995] \\
+Stored predictions, rows 0--498: $R$ / $R^2$ & 0.998 / 0.995 & 0.995 / 0.990 & 0.997 / 0.995 & 0.996 / 0.991 \\
+Stored predictions, rows 0--498: MAE / relative RMSE (\%) & 1.33 / 2.3 & 2.27 / 7.2 & 1.44 / 3.6 & 0.78 / 5.0 \\
+Stored predictions, rows 499--666: $R$ / $R^2$ & 0.713 / 0.353 & 0.651 / 0.397 & 0.841 / 0.485 & 0.580 / 0.147 \\
+Stored predictions, rows 499--666: MAE / relative RMSE (\%) & 6.33 / 3.8 & 7.44 / 3.3 & 5.22 / 2.8 & 2.97 / 3.7 \\
+Stored test predictions above training maximum & 168/168 & 168/168 & 168/168 & 168/168 \\
+Replica, shuffled 5-fold: pooled $R^2$, median & 0.9999 & 0.9997 & 0.9997 & 0.9998 \\
+Replica, contiguous 5-fold: pooled $R^2$, median & 0.33 & $-$4.72 & 0.85 & $-$0.97 \\
+Replica, forward holdout: pooled $R^2$, median & $-$25.26 & $-$78.71 & $-$38.65 & $-$36.65 \\
+Replica, forward holdout: MAE, median [range] & 34.6 [8.4, 115.4] & 58.9 [11.7, 542.7] & 33.2 [11.5, 122.9] & 14.9 [5.1, 58.2] \\
+Replicas with forward MAE $\le$ stored MAE & 0/30 & 0/30 & 0/30 & 0/30 \\
+\bottomrule
+\end{tabular}

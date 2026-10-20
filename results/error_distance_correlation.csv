@@ -1,0 +1,17 @@
+model,target,spearman_all_protocols
+Baseline ANN replica,Hardness Vickers,0.41583019780558655
+Baseline ANN replica,Proof Stress (mpa),0.3859897712191318
+Baseline ANN replica,Shear Strength (mpa),0.31216423293881984
+Baseline ANN replica,Tensile Strength,0.43085340072794426
+Extra Trees,Hardness Vickers,0.48082960879795344
+Extra Trees,Proof Stress (mpa),0.441326557301601
+Extra Trees,Shear Strength (mpa),0.4396814402587842
+Extra Trees,Tensile Strength,0.47299614177359056
+MLP,Hardness Vickers,0.30562778011419817
+MLP,Proof Stress (mpa),0.32848591084568984
+MLP,Shear Strength (mpa),0.29717737189893223
+MLP,Tensile Strength,0.3934401894304385
+Ridge,Hardness Vickers,0.2924040723920697
+Ridge,Proof Stress (mpa),0.29918039676682656
+Ridge,Shear Strength (mpa),0.31269630513271135
+Ridge,Tensile Strength,0.3202463228172139

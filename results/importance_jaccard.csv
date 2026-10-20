@@ -1,0 +1,9 @@
+target,protocol,mean_top3_jaccard
+Hardness Vickers,Contiguous 5-fold,0.2533333333333333
+Hardness Vickers,Shuffled 5-fold,0.49000000000000005
+Proof Stress (mpa),Contiguous 5-fold,0.2733333333333333
+Proof Stress (mpa),Shuffled 5-fold,0.52
+Shear Strength (mpa),Contiguous 5-fold,0.2733333333333333
+Shear Strength (mpa),Shuffled 5-fold,0.49000000000000005
+Tensile Strength,Contiguous 5-fold,0.2533333333333333
+Tensile Strength,Shuffled 5-fold,0.44000000000000006

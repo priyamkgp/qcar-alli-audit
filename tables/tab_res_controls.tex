@@ -1,0 +1,17 @@
+\begin{tabular}{@{}llrrrr@{}}
+\toprule
+Diagnostic & Quantity & TS & PS & SS & HV \\
+\midrule
+Order-only trend & selected window $w$ & 300 & 75 & 25 & 100 \\
+ & inner-validation MAE & 0.57 & 1.42 & 0.59 & 0.21 \\
+ & forward $R^2$ & 0.901 & 0.760 & 0.996 & 0.985 \\
+ & forward MAE & 3.08 & 4.74 & 0.48 & 0.40 \\
+\midrule
+Master table & Ridge: $R^2_{\mathrm{pool}}$ & 0.9953 & 0.9919 & 0.9914 & 0.9916 \\
+ & Extra Trees: $R^2_{\mathrm{pool}}$ & 1.0000 & 0.9999 & 0.9999 & 0.9999 \\
+Comonotone surrogates (20) & Ridge: median $R^2_{\mathrm{pool}}$ & 0.9969 & 0.9945 & 0.9942 & 0.9950 \\
+ & Extra Trees: median $R^2_{\mathrm{pool}}$ & 0.9999 & 0.9999 & 0.9999 & 0.9999 \\
+Response randomization (20) & Ridge: median $R^2_{\mathrm{pool}}$ & $-$0.016 & $-$0.018 & $-$0.019 & $-$0.015 \\
+ & Extra Trees: median $R^2_{\mathrm{pool}}$ & $-$0.343 & $-$0.357 & $-$0.310 & $-$0.375 \\
+\bottomrule
+\end{tabular}

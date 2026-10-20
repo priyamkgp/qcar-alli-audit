@@ -1,0 +1,17 @@
+\begin{tabular}{@{}llrrrrrr@{}}
+\toprule
+Regime & Base model & \multicolumn{4}{c}{Coverage} & Width/range & Reachable \\
+\cmidrule(lr){3-6}
+ & & TS & PS & SS & HV & (mean) & (ET) \\
+\midrule
+Random exchangeable & Extra Trees & 0.931 & 0.911 & 0.920 & 0.899 & 0.5\% & 0.997 \\
+ & Ridge & 0.919 & 0.898 & 0.898 & 0.916 & 6.9\% & -- \\
+ & MLP & 0.913 & 0.912 & 0.915 & 0.909 & 1.5\% & -- \\
+\addlinespace[2pt]
+Forward shift & Extra Trees & 0.000 & 0.000 & 0.000 & 0.000 & 20.7\% & 0.000 \\
+ & Ridge & 0.077 & 0.220 & 0.101 & 0.143 & 10.5\% & -- \\
+ & MLP & 0.000 & 0.012 & 0.137 & 0.000 & 7.2\% & -- \\
+ & Order-only trend & 0.196 & 0.000 & 0.446 & 0.833 & 3.2\% & -- \\
+\addlinespace[2pt]
+\bottomrule
+\end{tabular}

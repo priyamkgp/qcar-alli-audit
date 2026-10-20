@@ -1,0 +1,28 @@
+\begin{tabular}{@{}llrrrrrrrr@{}}
+\toprule
+ & & \multicolumn{4}{c}{Pooled $R^2$} & \multicolumn{4}{c}{nMAE (\%)} \\
+\cmidrule(lr){3-6}\cmidrule(l){7-10}
+Model & Protocol & TS & PS & SS & HV & TS & PS & SS & HV \\
+\midrule
+Ridge & Shuffled 5-fold & 0.9953 & 0.9919 & 0.9914 & 0.9916 & 1.40 & 1.48 & 1.65 & 1.66 \\
+ & Contiguous 5-fold & 0.80 & 0.60 & 0.65 & 0.67 & 6.55 & 6.90 & 7.19 & 7.38 \\
+ & Forward holdout & $-$8.16 & $-$46.45 & $-$37.45 & $-$34.09 & 12.64 & 17.46 & 15.91 & 16.30 \\
+\addlinespace[2pt]
+Extra Trees & Shuffled 5-fold & 1.0000 & 0.9999 & 0.9999 & 0.9999 & 0.09 & 0.10 & 0.10 & 0.10 \\
+ & Contiguous 5-fold & 0.79 & 0.78 & 0.79 & 0.79 & 6.86 & 6.33 & 6.04 & 6.51 \\
+ & Forward holdout & $-$11.59 & $-$15.43 & $-$16.83 & $-$14.36 & 18.89 & 14.93 & 15.29 & 15.09 \\
+\addlinespace[2pt]
+Hist.\ GB & Shuffled 5-fold & 0.9999 & 0.9993 & 0.9993 & 0.9995 & 0.17 & 0.23 & 0.22 & 0.21 \\
+ & Contiguous 5-fold & 0.84 & 0.83 & 0.84 & 0.84 & 8.08 & 7.35 & 7.18 & 7.38 \\
+ & Forward holdout & $-$4.17 & $-$4.61 & $-$5.45 & $-$5.36 & 13.58 & 10.06 & 10.44 & 11.07 \\
+\addlinespace[2pt]
+MLP & Shuffled 5-fold & 0.9998 & 0.9996 & 0.9996 & 0.9997 & 0.30 & 0.32 & 0.34 & 0.33 \\
+ & Contiguous 5-fold & 0.97 & 0.77 & 0.75 & 0.90 & 2.94 & 5.83 & 5.11 & 4.26 \\
+ & Forward holdout & $-$5.37 & $-$0.31 & $-$3.52 & $-$20.80 & 9.91 & 4.79 & 7.31 & 14.36 \\
+\addlinespace[2pt]
+Baseline ANN replica$^{a}$ & Shuffled 5-fold & 0.9999 & 0.9997 & 0.9997 & 0.9998 & 0.21 & 0.26 & 0.27 & 0.22 \\
+ & Contiguous 5-fold & 0.33 & $-$4.72 & 0.85 & $-$0.97 & 9.33 & 21.06 & 3.92 & 9.35 \\
+ & Forward holdout & $-$25.26 & $-$78.71 & $-$38.65 & $-$36.65 & 21.16 & 25.50 & 19.10 & 18.75 \\
+\addlinespace[2pt]
+\bottomrule
+\end{tabular}

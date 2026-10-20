@@ -1,0 +1,39 @@
+{
+  "rows": 667,
+  "features": 9,
+  "targets": 4,
+  "supplied_training_rows": 499,
+  "supplied_testing_rows": 168,
+  "mean_absolute_closure_error_wt_pct": 5.697151424736911e-05,
+  "maximum_absolute_closure_error_wt_pct": 0.00020000000002085017,
+  "unique_compositions": 667,
+  "unique_targets": {
+    "Tensile Strength": 667,
+    "Proof Stress (mpa)": 667,
+    "Shear Strength (mpa)": 667,
+    "Hardness Vickers": 667
+  },
+  "all_targets_strictly_increasing": true,
+  "minimum_pairwise_target_spearman": 1.0,
+  "pca_first_component_variance": 0.7629479230844067,
+  "pca_first_two_components_variance": 0.9058057055883049,
+  "pca_first_four_components_variance": 0.9874382252480256,
+  "variables_with_ks_equal_one": [
+    "Al",
+    "Cu",
+    "Mg",
+    "Mn",
+    "Zn",
+    "Tensile Strength",
+    "Proof Stress (mpa)",
+    "Shear Strength (mpa)",
+    "Hardness Vickers"
+  ],
+  "forward_test_nn_distance_mean": 3.7397183768607625,
+  "random_holdout_nn_distance_mean": 0.025620808536557176,
+  "forward_to_random_nn_distance_ratio": 145.96410458806275,
+  "complete_source_lookup_compositions": 94,
+  "source_exact_matches_max_abs_lt_0_001_wt_pct": 0,
+  "source_close_matches_max_abs_lt_0_05_wt_pct": 1,
+  "source_distance_median_standardized": 4.035616285258296
+}

@@ -1,0 +1,24 @@
+{
+  "importance_rank_stability": {
+    "Tensile Strength | Shuffled 5-fold": 0.7916666666666667,
+    "Tensile Strength | Contiguous 5-fold": -0.029851604623280115,
+    "Proof Stress (mpa) | Shuffled 5-fold": 0.8683333333333334,
+    "Proof Stress (mpa) | Contiguous 5-fold": 0.14910114744688646,
+    "Shear Strength (mpa) | Shuffled 5-fold": 0.8583333333333332,
+    "Shear Strength (mpa) | Contiguous 5-fold": 0.11883943017812412,
+    "Hardness Vickers | Shuffled 5-fold": 0.795,
+    "Hardness Vickers | Contiguous 5-fold": -0.059769145482604355
+  },
+  "forward_conformal_coverage": {
+    "Hardness Vickers": 0.0,
+    "Proof Stress (mpa)": 0.0,
+    "Shear Strength (mpa)": 0.0,
+    "Tensile Strength": 0.0
+  },
+  "random_conformal_coverage": {
+    "Hardness Vickers": 0.8985148514851486,
+    "Proof Stress (mpa)": 0.910891089108911,
+    "Shear Strength (mpa)": 0.91980198019802,
+    "Tensile Strength": 0.9311881188118812
+  }
+}
